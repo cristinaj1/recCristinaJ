@@ -5,10 +5,19 @@
  */
 package dominolista;
 
+import static dominolista.FichaDomino.aleatoria;
+import java.util.ArrayList;
+
 /**
  *
  * @author cristina
  */
 public class Domino {
-    
+
+    private ArrayList<FichaDomino> listaFichas;
+
+    public Domino() {
+        listaFichas = new ArrayList<>();
+    }
+
 }
