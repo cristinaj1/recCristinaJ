@@ -10,67 +10,146 @@ import java.util.Random;
 /**
  *
  * @author cristina
+ * El código de FichaDomino ha sido sacado de: 
+ * https://github.com/jfervic933/poo2021/blob/master/src/main/java/fichadomino/FichaDomino.java
+ * 
  */
 public class FichaDomino {
 
-    private int ladoA, ladoB;
-
-    //Constructor sin parametrizado
-    public FichaDomino() {
-        this.ladoA = 0;
-        this.ladoB = 0;
-    }
-
-    //Constructor parametrizado
-    public FichaDomino(int a, int b) {
-        this.ladoA = valorValido(a);
-        this.ladoB = valorValido(b);
-    }
-
-    //Comprueba si a y b son validos y sustituye si no lo son
-    private int valorValido(int a) {
-        if (a < 0 || a > 6) {
-            if (a % 2 == 0) {
-                a = 6;
-            } else {
-                a = 5;
-            }
+    private int superior, inferior;
+        
+	static Random aleatorio = new Random();
+        
+        
+        public static FichaDomino copiar(FichaDomino origen){
+            FichaDomino destino = new FichaDomino(origen.superior, origen.inferior);
+            
+            return destino;
         }
-        return a;
-    }
+        
+        // Constructor copia
+        
+        public FichaDomino (FichaDomino objeto){
+       
+            // Llamada al constructor de la propia clase usando
+            // this()
+            // Si se usa este constructor siempre debe llamarse
+            // en la primera línea del constructor copia
+            this(objeto.superior, objeto.inferior);
+//            this.superior = objeto.superior;
+//            this.inferior = objeto.inferior;
+        }
 
-    //Setters y getters
-    public int getLadoA() {
-        return ladoA;
-    }
+	public FichaDomino(int superior, int inferior) {
+		
+		
+		//Haceos un método para simplificar esta parte del código.
+//		if(superior < 0 || superior > 6) {
+//			if((superior % 2) == 0) {
+//				this.superior = 6;
+//			}else {
+//				this.superior = 5;
+//			}
+//		}
+//		
+//		if(inferior < 0 || inferior > 6) {
+//			if((inferior % 2) == 0) {
+//				this.inferior = 6;
+//			}else {
+//				this.inferior = 5;
+//			}
+//		}
+		
+		this.superior = pasoLimites(superior);
+		this.inferior = pasoLimites(inferior);
+	}
+	
+	//Método para simplificar código y evitar repeticiones (Se encarga de comprobar los valores límites y poner las
+	//restricciones que pone el enunciado
+	private int pasoLimites(int posible) {
+		if(posible < 0 || posible > 6) {
+			if((posible % 2) == 0) {
+				return 6;
+			}else {
+				return 5;
+			}
+			
+		}
+		return posible;
+	}
 
-    public void setLadoA(int ladoA) {
-        this.ladoA = valorValido(ladoA);
-    }
+	//Constructor por defecto
+	public FichaDomino() {
+		//super();
+		//Al no poner nada dentro del constructor, se asume que pone valores por defectos, en este caso el valor
+		//por defecto para los enteros es 0, lo que equivale a la ficha blanca
+	}
 
-    public int getLadoB() {
-        return ladoB;
-    }
+	//Getters y Setters
+	public int getSuperior() {
+		return superior;
+	}
 
-    public void setLadoB(int ladoB) {
-        this.ladoB = valorValido(ladoB);
-    }
+	public void setSuperior(int superior) {
+            this.superior = superior;
+            if(superior < 0 || superior > 6) {
+			if((superior % 2) == 0) {
+                                this.superior = 6;
+			}else {
+				this.superior = 5;
+			}
+		}
+		//this.superior = pasoLimites(superior);
+	}
 
-    //toString
-    @Override
-    public String toString() {
-        String salida = "[" + ladoA + "|" + ladoB + "]";
-        return salida.replaceAll("0", " ");
-    }
+	public int getInferior() {
+		return inferior;
+	}
 
-    //Suma las partes de la ficha
-    public byte getValorTotal() {
-        return (byte) (ladoA + ladoB);
-    }
+	public void setInferior(int inferior) {
+		this.inferior = pasoLimites(inferior);
+	}
 
-    //Genera fichas de forma aleatorias
-    public static FichaDomino aleatoria() {
-        Random random = new Random();
-        return new FichaDomino(random.nextInt(6) + 1, random.nextInt(6) + 1);
-    }
+	//Método toString
+	@Override
+	public String toString() {
+                String cadena="";
+                switch (this.superior){
+                    case 0:
+                        cadena = "[ |";
+                        break;
+                    default:
+                        cadena = "[" + this.superior +" |";
+                        break;
+                }
+                
+                
+                switch (this.inferior){
+                    case 0:
+                        cadena += " ]";
+                        break;
+                    default:
+                        cadena += this.inferior + "]";
+                        break;
+                }
+                
+                return cadena;
+                
+	}
+	
+	//Método que devuelve el valor de la suma de ambos números representados
+	public byte getValorTotal() {
+		return (byte) (superior + inferior);
+	}
+	
+	//Método que genera fichas aleatorias
+	public static FichaDomino generaFichaAleatoria() {
+		//No hace falta que limitemos valores ya que el constructor lo hace solo
+		int sup = aleatorio.nextInt(7);
+		int inf = aleatorio.nextInt(7);
+		          
+		FichaDomino ficha = new FichaDomino(sup, inf);
+                System.out.println("la ficha generada ha dicho " + ficha.toString());                
+		return ficha;
+	}
 }
