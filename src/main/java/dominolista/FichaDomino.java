@@ -13,21 +13,21 @@ import java.util.Random;
  */
 public class FichaDomino {
 
-    private int valorA, valorB;
+    private int ladoA, ladoB;
 
-    //Constructor por defecto
+    //Constructor sin parametrizado
     public FichaDomino() {
-        this.valorA = 0;
-        this.valorB = 0;
+        this.ladoA = 0;
+        this.ladoB = 0;
     }
 
     //Constructor parametrizado
     public FichaDomino(int a, int b) {
-        this.valorA = valorValido(a);
-        this.valorB = valorValido(b);
+        this.ladoA = valorValido(a);
+        this.ladoB = valorValido(b);
     }
 
-    //metodo para comprobar si a y b son validos y sustituir si no lo son
+    //Comprueba si a y b son validos y sustituye si no lo son
     private int valorValido(int a) {
         if (a < 0 || a > 6) {
             if (a % 2 == 0) {
@@ -39,39 +39,38 @@ public class FichaDomino {
         return a;
     }
 
-    //Setter y getter, teniendo en cuenta la restriccion
-    public int getValorA() {
-        return valorA;
+    //Setters y getters
+    public int getLadoA() {
+        return ladoA;
     }
 
-    public void setValorA(int valorA) {
-        this.valorA = valorValido(valorA);
+    public void setLadoA(int ladoA) {
+        this.ladoA = valorValido(ladoA);
     }
 
-    public int getValorB() {
-        return valorB;
+    public int getLadoB() {
+        return ladoB;
     }
 
-    public void setValorB(int valorB) {
-        this.valorB = valorValido(valorB);
+    public void setLadoB(int ladoB) {
+        this.ladoB = valorValido(ladoB);
     }
 
-    //método toString con formato pedido
+    //toString
     @Override
     public String toString() {
-        String salida = "[" + valorA + "|" + valorB + "]";
+        String salida = "[" + ladoA + "|" + ladoB + "]";
         return salida.replaceAll("0", " ");
     }
 
-    //metodo de suma de ambas partes de a ficha
+    //Suma las partes de la ficha
     public byte getValorTotal() {
-        return (byte) (valorA + valorB);
+        return (byte) (ladoA + ladoB);
     }
 
-    //metodo de clase que genere fichas aleatorias
+    //Genera fichas de forma aleatorias
     public static FichaDomino aleatoria() {
         Random random = new Random();
-        //return new FichaDomino(rd.nextInt(6) + 1, rd.nextInt(6) + 1);
-        return new FichaDomino(random.nextInt(7), random.nextInt(7));
+        return new FichaDomino(random.nextInt(6) + 1, random.nextInt(6) + 1);
     }
 }
