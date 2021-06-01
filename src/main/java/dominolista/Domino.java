@@ -89,7 +89,7 @@ public class Domino {
 
             //Puede dar out of bounds cuando quiere borrar la ficha [ | ] y un null pointer si hacemos que borre todas las fichas(llamándolo muchas veces)
         } catch (Exception npe) {
-            System.out.println("Ya ha sido elimnada de lista");
+            System.out.println("Va a ser o ya ha sido elimnada de lista");
             return null;
         }
     }
