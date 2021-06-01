@@ -28,7 +28,7 @@ public class Domino {
 
     //Este método rellena la lista con todas las posibles fichas únicas de un dominó 
     private void rellenarLista(ArrayList<FichaDomino> listaFichas) {
-        //nº de filas existentes
+        //número de filas existentes
         int j = 6;
         //En este for controlamos las columnas
         for (int i = 6; i >= 0; i--) {
@@ -41,7 +41,7 @@ public class Domino {
         }
     }
 
-    //Getters y setters para trabajar mejor
+    //Getters y setters para trabajar mejor con la lista
     public ArrayList<FichaDomino> getListaFichas() {
         return listaFichas;
     }
@@ -52,7 +52,26 @@ public class Domino {
 
     //Mueve las fichas aleatoriamente para que queden "desordenadas" dentro de la estructura
     public void mezclarFichas() {
+        //Este método las mezcla aleatoriamente
         Collections.shuffle(listaFichas);
+    }
+
+    //Nos ayuda a comprobar si la ficha se encuentra repetida en el arrayList o no
+    private boolean comprobarRepeticion(int izq, int der) {
+        for (FichaDomino fichaPrueba : listaFichas) {
+//            Este if comprueba lo siguiente
+//            [2|1] [1|2]
+//              X    | |
+//            [1|2] [1|2]
+//            Comprueba en x y en vertical si son la misma ficha o no(al derecho y a la inversa)
+//            
+            if (fichaPrueba.getSuperior() == izq && fichaPrueba.getInferior() == der
+                    || fichaPrueba.getInferior() == izq && fichaPrueba.getSuperior() == der) {
+                return false;
+            }
+        }
+        return true;
+
     }
 
     //Devuelve una ficha aleatoria del dominó y la elimina de la estructura. Si no hay fichas por sacar devolverá null.
@@ -62,18 +81,23 @@ public class Domino {
         try {
             listaFichas.get(aleatorio);
             System.out.println("La ficha " + listaFichas.get(aleatorio).toString() + " es la elegida y se va a eliminar de la lista");
-            listaFichas.remove(aleatorio);
+            //Comprobamos primero que se pueda borrar el derecho y al revés
+            if ((!comprobarRepeticion(listaFichas.get(aleatorio).getInferior(), listaFichas.get(aleatorio).getSuperior()))) {
+                listaFichas.remove(aleatorio);
+            }
             return listaFichas.get(aleatorio);
 
-        } catch (NullPointerException npe) {
-            System.out.println("No hay fichas en la lista");
+            //Puede dar out of bounds cuando quiere borrar la ficha [ | ] y un null pointer si hacemos que borre todas las fichas(llamándolo muchas veces)
+        } catch (Exception npe) {
+            System.out.println("Ya ha sido elimnada de lista");
             return null;
         }
     }
 
     //Guarda la ficha f en el dominó. Si esa ficha ya existe en el dominó no se guarda.
     public void meterFicha(FichaDomino f) {
-        if (!listaFichas.contains(f)) {
+        //Mirar en caso de una ficha a la inversa y eso
+        if (comprobarRepeticion(f.getSuperior(), f.getInferior())) {
             listaFichas.add(f);
         } else {
             System.out.println("La lista ya contiene la ficha");
@@ -86,6 +110,7 @@ public class Domino {
         Random random = new Random();
         for (int j = 0; j < n; j++) {
 
+            //He puesto la lista size aleatoria porque así jamás puede dar un out of bounds
             listaRepartida[j] = listaFichas.get(random.nextInt(listaFichas.size()));
 
             listaFichas.remove(listaRepartida[j]);

@@ -149,7 +149,7 @@ public class FichaDomino {
 		int inf = aleatorio.nextInt(7);
 		          
 		FichaDomino ficha = new FichaDomino(sup, inf);
-                System.out.println("la ficha generada ha dicho " + ficha.toString());                
+                System.out.println("la ficha generada ha sido " + ficha.toString());                
 		return ficha;
 	}
 }
