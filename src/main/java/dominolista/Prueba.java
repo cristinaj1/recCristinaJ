@@ -22,8 +22,7 @@ public class Prueba {
         lista.getListaFichas().forEach(System.out::println);
 
         //Prueba el hecho de sacar fichas del array
-        lista.sacarFicha();
-        System.out.println("Después de sacar de la lista--------");
+        System.out.println("Después de sacar de la lista--------" + lista.sacarFicha());
         lista.getListaFichas().forEach(System.out::println);
 
         //Hacemos la prueba de meter la ficha 
