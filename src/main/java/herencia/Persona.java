@@ -13,11 +13,14 @@ import java.util.Objects;
  */
 public class Persona {
 
+    //atributos básicos de una persona
     private String nombre;
     private String apellidos;
     private String dni;
+    //Como son profesores les puse asignatura, pero en otro caso se pondría null o ""
     private String asignatura;
 
+    //constructores
     public Persona(String nombre, String apellidos, String dni, String asigantura) {
         this.nombre = nombre;
         this.apellidos = apellidos;
@@ -28,6 +31,7 @@ public class Persona {
     public Persona() {
     }
 
+    //Getters y setters
     public String getNombre() {
         return nombre;
     }
@@ -60,11 +64,13 @@ public class Persona {
         this.asignatura = asigantura;
     }
 
+    //toString
     @Override
     public String toString() {
         return "Persona{" + "nombre=" + nombre + ", apellidos=" + apellidos + ", dni=" + dni + ", asigantura=" + asignatura + '}';
     }
 
+    //equals y hashcode
     @Override
     public int hashCode() {
         int hash = 3;

@@ -15,11 +15,13 @@ public class ProfesorTitular extends Profesor implements Comparable<ProfesorTitu
 
     private LocalDate fechaTomaPosesion;
 
+    //Constructores
     public ProfesorTitular(LocalDate fechaTomaPosesion, String idProfesor, String nombre, String apellidos, String dni, String asigantura) {
         super(idProfesor, nombre, apellidos, dni, asigantura);
         this.fechaTomaPosesion = fechaTomaPosesion;
     }
 
+    //getters y setters
     public LocalDate getFechaTomaPosesion() {
         return fechaTomaPosesion;
     }
@@ -28,19 +30,23 @@ public class ProfesorTitular extends Profesor implements Comparable<ProfesorTitu
         this.fechaTomaPosesion = fechaTomaPosesion;
     }
 
+    //toString
     @Override
     public String toString() {
-        return "ProfesorTitular{" + "fechaTomaPosesion=" + fechaTomaPosesion + '}' + " "+ProfesorTitular.super.toString();
+        return "ProfesorTitular: fechaTomaPosesion:" + fechaTomaPosesion + " Nombre: " + ProfesorTitular.super.getNombre() + " DNI: " + ProfesorTitular.super.getDni();
     }
 
+    //método abstracto
     @Override
     public double importeNomina(double sueldoBase) {
         double resultado = (sueldoBase * 0.3) + sueldoBase;
         return resultado;
     }
 
+    //Compare to para ordenar objetos por fecha de toma de posesión
     @Override
     public int compareTo(ProfesorTitular t) {
+        //ORDENA DE MÁS ANTIGUO A MÁS NUEVO
         // caso a = b
         int resultadoComparacion = 0;
         // Caso a > b
@@ -49,7 +55,7 @@ public class ProfesorTitular extends Profesor implements Comparable<ProfesorTitu
             resultadoComparacion = 1;
         } else {
             // Caso a < b
-            //Si es antes sale '1
+            //Si es antes sale -1
             resultadoComparacion = -1;
         }
 

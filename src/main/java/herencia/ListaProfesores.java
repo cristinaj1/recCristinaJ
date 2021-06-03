@@ -5,7 +5,6 @@
  */
 package herencia;
 
-import java.time.Duration;
 import java.time.LocalDate;
 import java.time.temporal.ChronoUnit;
 import java.util.ArrayList;
@@ -17,17 +16,28 @@ import java.util.Scanner;
  */
 public class ListaProfesores {
 
+    //Un atributo que sea una lista de objetos Profesor
     private ArrayList<Profesor> listaProfesores = new ArrayList<>();
 
     //calcular el importe total de todas las nóminas de los profesores de la lista. 
     public double importeTotal() {
         Scanner teclado = new Scanner(System.in);
         double resultado = 0;
+        double totalInterino = 0, totalTitular = 0;
+        //Como no sabemos lo que cobra de base un profesor pedimos al usuario que lo meta por pantalla
+
         for (Profesor prof : listaProfesores) {
-            //Como no sabemos lo que cobra cada profesor pedimos al usuario que lo meta por pantalla
-            System.out.println("Introduzca el importe de la nómina del profesor: " + prof.getIdProfesor());
+
+            System.out.println("Introduzca el sueldo base del profesor: " + prof.getNombre());
             double sueldoBase = teclado.nextDouble();
-            prof.importeNomina(sueldoBase);
+            if (prof instanceof ProfesorInterino) {
+                double totalInte = prof.importeNomina(sueldoBase);
+                totalInterino += totalInte;
+            } else {
+                double totalTit = prof.importeNomina(sueldoBase);
+                totalInterino += totalTit;
+            }
+            resultado = totalInterino + totalTitular;
 
         }
         return resultado;
@@ -39,7 +49,7 @@ public class ListaProfesores {
         LocalDate hoy = LocalDate.now();
 
         resultado = ChronoUnit.DAYS.between(pf.getFechaTomaPosesion(), hoy);
-        
+
         //hago un casting para que aparezca en número entero y para que se más fácil para trabajar con ello
         return (int) resultado;
 

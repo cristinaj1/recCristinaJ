@@ -11,17 +11,25 @@ import java.time.LocalDate;
  *
  * @author cristina
  */
-public class ProfesorInterino extends ProfesorTitular {
+public class ProfesorInterino extends Profesor {
 
     private LocalDate fechaIni;
     private LocalDate fechaFin;
 
-    public ProfesorInterino(LocalDate fechaIni, LocalDate fechaFin, LocalDate fechaTomaPosesion, String idProfesor, String nombre, String apellidos, String dni, String asigantura) {
-        super(fechaTomaPosesion, idProfesor, nombre, apellidos, dni, asigantura);
+    //Constructores
+    public ProfesorInterino(LocalDate fechaIni, LocalDate fechaFin, String idProfesor, String nombre, String apellidos, String dni, String asigantura) {
+        super(idProfesor, nombre, apellidos, dni, asigantura);
         this.fechaIni = fechaIni;
         this.fechaFin = fechaFin;
     }
 
+    public ProfesorInterino(LocalDate fechaIni, LocalDate fechaFin, String idProfesor) {
+        super(idProfesor);
+        this.fechaIni = fechaIni;
+        this.fechaFin = fechaFin;
+    }
+
+    //getters y setters
     public LocalDate getFechaFin() {
         return fechaFin;
     }
@@ -38,20 +46,22 @@ public class ProfesorInterino extends ProfesorTitular {
         this.fechaIni = fechaIni;
     }
 
+    //to string
     @Override
     public String toString() {
-        return "ProfesorInterino{" + "fechaIni=" + fechaIni + ", fechaFin=" + fechaFin + '}' + " Nombre: " + ProfesorInterino.super.getNombre() + " IdProfesor: " + ProfesorInterino.super.getIdProfesor() + " DNI: " + ProfesorInterino.super.getDni();
+        return "ProfesorInterino: fechaIni:" + fechaIni + ", fechaFin:" + fechaFin + '}' + " Nombre: " + ProfesorInterino.super.getNombre() + " IdProfesor: " + ProfesorInterino.super.getIdProfesor() + " DNI: " + ProfesorInterino.super.getDni();
     }
 
+    // sobrescribir el método abstracto 
     @Override
     public double importeNomina(double sueldoBase) {
         double resultado = (sueldoBase * 0.15) + sueldoBase;
         return resultado;
     }
 
-    //ESTO TENGO QUE MIRARLO
+    //Sirve para ordenar los profesores interinos por fecha de inicio de la interinidad
     public int compareTo(ProfesorInterino t) {
-        // caso a = b
+        //ORDENA DE MÁS ANTIGUO A MÁS NUEVO
         int resultadoComparacion = 0;
         // Caso a > b
         if (this.fechaIni.isAfter(t.fechaIni)) {
@@ -59,7 +69,7 @@ public class ProfesorInterino extends ProfesorTitular {
             resultadoComparacion = 1;
         } else {
             // Caso a < b
-            //Si es antes sale '1
+            //Si es antes sale -1
             resultadoComparacion = -1;
         }
 
