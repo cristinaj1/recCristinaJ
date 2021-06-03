@@ -21,7 +21,7 @@ public class MatrizLetras {
     public void llenarAleatoriamente() {
         for (int i = 0; i < matrizLetras.length; i++) {
             for (int j = 0; j < matrizLetras[i].length; j++) {
-                matrizLetras[i][j] = (char) ((char) random.nextInt(90 - 65 + 1) + 65);
+                matrizLetras[i][j] = (char) (random.nextInt(90 - 65 + 1) + 65);
             }
 
         }
