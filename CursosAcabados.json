@@ -1,1 +1,7615 @@
-"cursosAcabados.txt"
+[ {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "ABP. APRENDIZAJE BASADO EN PROYECTOS (SECUNDARIA Y BACHILLERATO)",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "11/12/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "XII JORNADAS EDUCATIVAS DE BENALMÁDENA: APRENDIZAJE EN EL SIGLO XXI: FAMILIA Y ESCUELA",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "06/02/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "MATEMATIZATE",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "19/02/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "XI JORNADA EDUCO-PREVENTIVA: INNOVACIÓN EDUCATIVA",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "16/11/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "XII FERIA DE LA CIENCIA IBN AL-BAYTAR",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "29/04/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "GESTION DE CENTROS PUBLICOS: CIERRE Y APERTURA DE EJERCICIO ECONOMICO, REGISTRO ELECTRONICO Y CONTRATACION",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "10/10/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "CUADERNO DEL PROFESORADO CON SÉNECA E ISÉNECA (ZONA ALHAURIN)",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "20/03/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "CUADERNO DEL PROFESORADO CON SÉNECA E ISÉNECA (ZONA ESTEPONA-MANILVA)",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "20/03/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "YOGA PARA EDUCAR",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "20/03/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "I FERIA STEAM EN ESTEPONA Y EN FUENGIROLA",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "30/04/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "EVALUACIÓN: PORFOLIO Y METACOGNICIÓN",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "15/02/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "BIOTECNOLOGÍA PARA PROFESORADO DE FORMACIÓN PROFESIONAL",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "01/10/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "PROGRAMACIÓN Y EVALUACIÓN EN F.P.",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "08/11/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "¿CÓMO IMPLEMENTAMOS NUESTRO PROYECTO DE DUAL?",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "14/10/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "PROGRAMACIÓN Y EVALUACIÓN EN F.P. (EXCLUSIVO PROFESORADO DE TARDE)",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "06/11/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "ESTILISMO MASCULINO: PASADO, PRESENTE Y FUTURO",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "23/11/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "GAMIFICACIÓN EN FORMACIÓN PROFESIONAL",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "29/02/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "ELABORACIÓN DE PROYECTOS DE INNOVACIÓN PARA F.P.",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "31/03/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "ACTUALIZACIÓN LABORAL Y SISTEMA RED (ADMON Y FINANZAS)",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "28/02/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "CUADERNO DEL PROFESORADO CON SÉNECA E ISÉNECA (ZONA ARROYO DE LA MIEL)",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "29/02/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "CUADERNO DEL PROFESORADO CON SÉNECA E ISÉNECA (ZONA SAN PEDRO DE ALCÁNTARA)",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "19/12/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "DISCIPLINA POSITIVA Y NEUROCIENCIA PARA DOCENTES (ZONA ESTEPONA)",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "18/02/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "DOMÓTICA LIBRE",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "19/12/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "MARKETING DIGITAL Y REDES SOCIALES",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "06/12/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "PRIMEROS AUXILIOS EN URGENCIAS MÁS FRECUENTES",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "05/03/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "DISEÑO Y PUESTA EN MARCHA DE UN PROGRAMA DE MEDIACIÓN ESCOLAR EN CEIPS",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "14/01/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "TRANSFORMA-ACCIÓN - PROGRAMA CAMBIO MOTOR: DAME UN REA Y CAMBIARÉ EL MUNDO",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "20/04/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "AUDIOVISUALES PARA LA CONVIVENCIA EN RELIGIÓN.",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "21/11/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "GAMIFICACION: APRENDEMOS JUGANDO",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "29/04/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "TRANSFORMA-ACCIÓN: PROGRAMA MATEMORFOSIS",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "02/04/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "INTEGRACIÓN DE LAS COMPETENCIAS CLAVE EN EL ÁMBITO EDUCATIVO NIVEL I. CEIP SAN LUIS DE SABINILLAS",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "25/03/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "INTEGRACIÓN DE LAS COMPETENCIAS CLAVE EN EL ÁMBITO EDUCATIVO NIVEL I. CEIP MAICANDIL",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "16/12/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "DISCIPLINA POSITIVA Y NEUROCIENCIA PARA DOCENTES. NIVEL I (ZONA SAN PEDRO)",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "02/03/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "PRIMEROS AUXILIOS EN URGENCIAS MÁS FRECUENTES (ZONA SAN PEDRO)",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "03/03/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "INTEGRACIÓN DE LAS COMPETENCIAS CLAVE EN EL ÁMBITO EDUCATIVO NIVEL I. CEIP MIGUEL HERNANDEZ",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "21/04/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "CUADERNO DEL PROFESORADO CON SÉNECA E ISÉNECA (ZONA NUEVA ANDALUCÍA)",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "17/03/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "EXPRESIÓN , COMPRENSIÓN ORAL Y COMPRENSIÓN LECTORA:¿CÓMO SUENA ESA LETRA?",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "10/12/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "4,3,2,1...DEVELOP STUDENT`S BASIC ENGLISH SKILLS WITH THE HELP OF MINDFULNESS",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "07/11/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "COMPETENCIAS CLAVE EN PRIMARIA",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "26/03/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "LA RELACIÓN DEL TDA-H CON LAS DIFICULTADES EN LAS HABILIDADES SOCIALES Y LA REPERCUSIÓN EN EL APRENDIZAJE ESCOLAR",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "11/09/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "GESTIÓN DEL AULA CON EL ENFOQUE EN NEUROEDUCACIÓN Y DISCIPLINA POSITIVA NIVEL II. (ZONA FUENGIROLA)",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "14/10/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "ENRIQUECE TUS PROGRAMACIONES CON RUTINAS DE PENSAMIENTO",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "31/03/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "COMUNICATE CON EL ALUMNADO SORDO: LENGUA DE SIGNOS,ESTRATEGIAS Y HERRAMIENTAS BÁSICAS PARA EL AULA",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "18/11/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "CUADERNO DEL PROFESORADO CON SÉNECA E ISÉNECA (ZONA LAS LAGUNAS)",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "21/02/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "EL TEATRO COMO METODOLOGÍA COMPETENCIAL",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "04/12/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "PENSAMIENTO COMPUTACIONAL Y ROBÓTICA PARA TOD@S",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "23/03/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "EL DEBATE COMO HERRAMIENTA CURRICULAR",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "21/02/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "EXPRESIÓN , COMPRENSIÓN ORAL Y COMPRENSIÓN LECTORA:¿CÓMO SUENA ESA LETRA?",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "12/02/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "METODOLOGÍA MONTESSORI EN EL AULA",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "27/11/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "CUADERNO DEL PROFESORADO CON SÉNECA E ISÉNECA (ZONA COÍN)",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "05/12/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "DISCIPLINA POSITIVA Y NEUROCIENCIA PARA DOCENTES. NIVEL I (ZONA COÍN)",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "26/11/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "CUADERNO DEL PROFESORADO CON SÉNECA E ISÉNECA (OJÉN)",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "17/12/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "GAMIFICACIÓN Y APRENDIZAJE COOPERATIVO",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "02/04/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "PRIMEROS AUXILIOS EN URGENCIAS MÁS FRECUENTES EN RESIDENCIAS ESCOLARES",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "06/03/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "PRIMEROS AUXILIOS EN URGENCIAS MÁS FRECUENTES EN UN CENTRO EDUCATIVO (ZONA CALA DE MIJAS-FUENGIROLA)",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "29/11/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "JORNADAS SOBRE BUENAS PRÁCTICAS EN EL ÁREA DE MÚSICA",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "20/11/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "INTEGRACIÓN DE LAS COMPETENCIAS CLAVE EN EL ÁMBITO EDUCATIVO NIVEL I. CEIP INDIRA GHANDI",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "20/04/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "INTEGRACIÓN DE LAS COMPETENCIAS CLAVE EN EL ÁMBITO EDUCATIVO NIVEL I. CEIP TAMIXA",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "29/04/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "ACTUALIZACIÓN EN BIBLIOWEB 2 PARA RESPONSABLES Y EQUIPOS DE APOYO",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "22/10/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "HERRAMIENTAS DE COACHING Y PNL APLICADAS A LA EDUCACIÓN MUSICAL",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "17/12/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "INTEGRACIÓN DE LAS COMPETENCIAS CLAVE EN EL ÁMBITO EDUCATIVO NIVEL I. CEIP EL OLMO",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "29/04/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "CUADERNO DIGITAL SÉNECA: EVALUACIÓN Y COMPETENCIAS",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "19/09/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "TRANSFORMA-ACCIÓN: PROGRAMA CON-SEGUIMOS",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "23/04/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "NEUROEDUCACIÓN. EMOCIÓN Y APRENDIZAJE.",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "09/11/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "CREATIVAMENTE: VISUAL THINKING",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "19/03/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "COHESIÓN DE EQUIPOS, CONVIVENCIA Y TIC",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "12/03/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "ESTUDIO DE LA IMAGEN PERSONAL EN FORMACIÓN PROFESIONAL",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "01/10/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "WYSIWYG, DISEÑO DE ILUMINACIÓN 3D",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "16/12/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "NUEVAS TENDENCIAS EN ELABORACIÓN DE PLATOS A LA VISTA DEL CLIENTE EN SALA",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "01/10/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "POSTICERIA PARA CARACTERIZACIÓN Y PELUQUERÍA ONCOLÓGICA",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "10/12/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "ILUMINACIÓN EN EL CINE",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "11/12/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "RESOLUCIÓN DE PROBLEMAS MATEMÁTICOS: CREATIVIDAD Y RAZONAMIENTO",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "14/09/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "TALLER DE PROGRAMACIÓN POR COMPETENCIAS PARA SECUNDARIA",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "07/10/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "CURSO DE INICIACIÓN AL USO DE LA PLATAFORMA MOODLE",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "11/02/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "CUIDANDO NUESTRA VOZ: USO SALUDABLE  DE LA VOZ Y PREVENCIÓN DE PATOLOGÍA VOCAL.",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "27/11/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "DISEÑO DE ESTRATEGIAS SENSORIO-MOTRICES EN UN AULA SENSORIAL",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "12/02/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "DISCALCULIA: ¿DIFICULTADES CON LOS NÚMEROS Y EL CÁLCULO?",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "20/02/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "CUIDANDO NUESTRA VOZ: USO SALUDABLE  DE LA VOZ Y PREVENCIÓN DE PATOLOGÍA VOCAL.",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "28/11/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "FOMENTO DE LA COMUNICACIÓN LINGÜÍSTICA EN LOS CENTROS",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "18/09/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "DIRECCIÓN PARA LA MEJORA DE LOS RESULTADOS ESCOLARES",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "23/01/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "JORNADA DE EXPERIENCIAS CON JOLLY PHONICS",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "11/03/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "JORNADAS EDUCATIVAS COMUNIDAD CEIP BLAS INFANTE",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "09/11/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "CONSTRUYENDO LA EDUCACIÓN AFECTIVO-SEXUAL.",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "05/11/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "POR UNA SEXUALIDAD SANA (CONSUMO DE  PORNOGRAFÍA Y CONSECUENCIAS  EN LA ADOLESCENCIA )",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "23/04/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "LOS PROCESOS DE AUTOEVALUACIÓN Y MEJORA COMO BASE DE LA INNOVACIÓN EDUCATIVA",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "04/02/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "LIBERA A LA ESCUELA DEL LABERINTO DEL TIEMPO CON  CREATIVIDAD EN 4D",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "10/03/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "EDUCACIÓN. I CONGRESO INTERNACIONAL DE EDUCACIÓN",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "19/03/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "LA GESTIÓN EMOCIONAL A TRAVÉS DEL MINDFULNESS Y LA COHESIÓN DE GRUPO",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "15/11/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "APRENDIZAJE COOPERATIVO",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "30/01/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "PROMOTING A GROWTH MINDSET THROUGH INNOVATIVE ACTIVITIES FOR CLIL",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "04/03/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "EL NUEVO CURRÍCULO Y LA MEDIACIÓN EN EL AULA",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "27/03/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "FORMACIÓN PARA JEFATURAS DE ESTUDIO",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "28/01/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "MIRA CON ACIERTO LA DISLEXIA: ''EL LENGUAJE TIENE SENTIDO Y SE PUEDE MODELIZAR''",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "12/12/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "ASAMBLEAS ESTRUCTURADAS EN E.I Y E.P PARA TRABAJAR LA ORALIDAD CON TU ALUMNADO",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "06/02/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "USO DEL CUADERNO DEL PROFESORADO",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "16/02/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "KAPICÚA: COMPARTIENDO EXPERIENCIAS MATEMÁTICAS II",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "30/04/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "CÓMO DAR CLASE A QUIENES NO QUIEREN",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "16/04/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "COLABORAR PARA AVANZAR: MEJORA DE LA COORDINACIÓN EN GRUPOS DE TRABAJO",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "07/11/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "JORNADA PROVINCIAL DE PLURILINGÜISMO",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "15/04/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "COMUNIDADES DE APRENDIZAJE. FASE DE SENSIBILIZACIÓN (I)",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "29/02/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "JORNADA PROVINCIAL ETWINNING",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "19/03/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "JORNADA DE FORMACIÓN FP DUAL",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "21/10/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "CURSO DE FORMACIÓN DE GEMELO DIGITAL Y VIRTUAL APLICADO A LA INDUSTRIA 4.0",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "04/12/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "INICIACIÓN A LA PREVENCIÓN DE RIESGOS LABORALES EN LA DOCENCIA",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "19/02/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "JORNADA DE FORMADOR DE FORMADORES EN DEBATE EDUCATIVO",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "07/11/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "EL DEBATE COMO HERRAMIENTA CURRICULAR",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "15/01/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "FORMACIÓN DESTINADA A JUECES Y JUEZAS DE DEBATE",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "15/02/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "DINAMIZACIÓN DEL II TORNEO DE DEBATE EDUCATIVO DE LA PROVINCIA DE MÁLAGA",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "31/03/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "FORMACIÓN DEL PERSONAL FUNCIONARIO EN PRÁCTICAS 2019-20. FASE PRESENCIAL",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "31/03/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "MÓDULO BÁSICO: REDACCIÓN DE PROYECTOS ERASMUS+",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "30/01/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "INICIACIÓN A LA PREVENCIÓN DE RIESGOS LABORALES EN LA DOCENCIA",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "28/02/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "DALE LA VUELTA A TU CLASE (FLIPPED CLASSROOM)",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "11/12/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "DALE LA VUELTA A TU CLASE (FLIPPED CLASSROOM)",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "24/03/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "DISEÑO Y FABRICACIÓN DE ELEMENTOS PARA LA CONSTRUCCIÓN EN MADERA.\tLAS ESCALERAS DE MADERA",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "01/10/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "INSTALACIÓN DE SISTEMAS CON PLACAS DE YESO LAMINADO",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "01/10/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "INTRODUCCIÓN A  SALESFORCE",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "01/10/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "GESTIÓN DE ZONAS VERDES CON GIS",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "15/10/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "PROGRAMACIÓN, EVALUACIÓN Y GESTIÓN DEL AULA",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "21/10/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "TECNOLOGÍAS DE PROPULSIÓN EN VEHÍCULOS HÍBRIDOS Y VEHÍCULOS 100% ELÉCTRICOS",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "01/10/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "INMERSIÓN MOODLE CURSO 2019-20",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "23/10/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "ENCUENTRO DUALIZA MÁLAGA. PRESENTE Y FUTURO DE LA FORMACIÓN PROFESIONAL DUAL EN MÁLAGA",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "29/10/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "INTERNACIONALIZACIÓN EN LA FORMACIÓN PROFESIONAL:  ORGANIZACIÓN, OPORTUNIDADES Y FUTURO",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "05/11/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "NIVEL BÁSICO DE PREVENCIÓN EN CONSTRUCCIÓN",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "10/12/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "XIII JORNADAS ANDALUZAS DE LA ENSEÑANZA DE LA ECONOMÍA EN SECUNDARIA",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "15/02/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "INTERVENCIÓN EN ALUMNADO TEA GRAVEMENTE AFECTADO",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "26/11/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "JORNADA DE LA RED MALAGUEÑA DE MEDIACIÓN",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "07/11/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "PRÁCTICA DEL COMPÁS FLAMENCO: APLICACIÓN PRÁCTICA, DIDÁCTICA Y ARMONÍA",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "08/11/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "GESTIÓN DEL ESTRÉS EN ARE",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "30/10/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "METODOLOGÍA Y PROFUNDIZACIÓN DEL ''CONTACT IMPROVISATION'' COMO METODOLOGÍA DE LA DANZA CONTEMPORÁNEA",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "12/09/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "I CONGRESO NACIONAL SOBRE INVESTIGACIÓN  EN MÚSICA Y ARTES ESCÉNICAS",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "15/03/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "SKETCHUP AVANZADO PARA ESCUELAS DE ARTE",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "11/09/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "IV ENCUENTRO REGIONAL DEL PROFESORADO DE ESPAÑOL PARA EXTRANJEROS DE EEOOII DE ANDALUCÍA",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "21/02/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "REGULACIÓN Y CONTROL EN LA INDUSTRIA FARMACÉUTICA, BIOTECNOLÓGICA Y AFINES",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "12/12/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "JORNADA PRIMER CICLO DE EDUCACIÓN INFANTIL",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "20/03/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "FORMACIÓN PARA ORIENTACIÓN EDUCATIVA NOVEL",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "02/04/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "EDUCACIÓN. I CONGRESO INTERNACIONAL DE EDUCACIÓN",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "19/03/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "I CONGRESO INTERNACIONAL DE PRÁCTICAS INNOVADORAS EN EDUCACIÓN INFANTIL DE 0 A 3 AÑOS",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "25/04/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "SOFT SKILLS: LAS COMPETENCIAS MÁS DEMANDADAS POR LAS EMPRESAS 2020",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "16/04/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "LAS PRÁCTICAS RECOMENDADAS EN ATENCIÓN TEMPRANA",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "15/04/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "FORMACIÓN PARA EL USO DE LAS NUEVAS HOJAS DE OBSERVACIÓN DE LAS PRUEBAS ESPECÍFICAS TERMINALES DE CERTIFICACIÓN",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "24/01/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "LA SALUD ESTÁ EN TU MANO",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "29/04/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "SIMULADORES PARA EL DIAGNÓSTICO POR IMAGEN DE LA FAMILIA DE SANIDAD",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "04/12/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "USO DE LA PLATAFORMA MOODLE CENTROS",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "23/04/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "FORMACIÓN PARA LA MENTORIZACIÓN DE FUNCIONARIOS EN PRÁCTICAS",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "26/11/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "FORMACIÓN PERSONAL FUNCIONARIO EN PRÁCTICAS PRIMARIA 2019-20. FASE ON-LINE",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "31/03/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "JORNADAS INICIALES ERASMUS+",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "02/12/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "JORNADA TRINITY: EL PORTFOLIO COMO HERRAMIENTA PARA LA ENSEÑANZA DE LA EXPRESIÓN ESCRITA",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "14/11/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "JORNADA CAMBRIDGE: PLANIFICACIÓN DE UNA CLASE AICLE",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "24/02/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "ENCUENTRO CENTROS LABEL FRANCÉDUCATION 2020",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "15/04/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "INTRODUCCIÓN A LAS COMUNIDADES DE APRENDIZAJE",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "11/12/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "INNICIA: HERRAMIENTAS PARA EL EMPRENDIMIENTO EDUCATIVO",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "03/04/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "PROYECTO EDUCAVES",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "10/03/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "EDUCACIÓN. I CONGRESO INTERNACIONAL DE EDUCACIÓN",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "19/03/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "EL APRENDIZAJE COOPERATIVO COMO ESTRATEGIA DE GESTIÓN DEL AULA",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "11/12/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "SIMULACIÓN Y VIRTUALIZACION DE APARATOS KNX Y USO DE LA HERRAMIENTA ETS5 (II)",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "11/09/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "CODIFICACIÓN DE DIAGNOSTICOS Y PROCEDIMIENTOS CON CIE 10 ES",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "31/10/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "EVALUACIÓN Y PROGRAMACIÓN EN F.P. LOE",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "12/11/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "INSTALACIONES FRIGORÍFICAS Y CLIMATIZACIÓN",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "15/12/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "INICIACIÓN A PROYECTOS ERASMUS + E INTERNACIONALIZACIÓN DE LA FORMACIÓN PROFESIONAL.",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "03/12/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "GESTIÓN ADMINISTRATIVA Y ECONÓMICA DE PROYECTOS ERASMUS + EN FORMACIÓN PROFESIONAL",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "05/03/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "XX JORNADAS DE INNOVACIÓN PEDAGÓGICA DE ANTEQUERA",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "14/03/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "JORNADAS DE BUENAS PRÁCTICAS SOBRE GAMIFICACIÓN",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "11/01/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "LA LABOR DE LA INSPECCIÓN DE EDUCACIÓN EN LA EVALUACIÓN Y SEGUIMIENTO DE CENTROS DOCENTES, SERVICIOS, PROGRAMAS Y ACTIVIDADES DEL SISTEMA EDUCATIVO",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "16/01/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "EDUCACIÓN. I CONGRESO INTERNACIONAL DE EDUCACIÓN",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "19/03/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "JORNADA DE FORMACIÓN SÉNECA EXÁMENES ONLINE",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "19/11/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "CURSO  ON LINE DE PRÁCTICA EN SIMULADORES DE IMAGEN PARA FAMILIA PROFESIONAL DE SANIDAD",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "20/12/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "CURSO EN ROBOTSTUDIO ANIMATION",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "22/11/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "IV ENCUENTRO DE CENTROS DE CALIDAD",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "28/11/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "JORNADAS REGIONALES DE ASESORÍAS DE FORMACIÓN PROFESIONAL",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "13/12/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "EL MCERL EN LA PROGRAMACIÓN DE AULA DE LAS ÁREAS LINGÜÍSTICAS",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "11/12/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "CONTROL DE LA ANSIEDAD ESCÉNICA DEL ALUMNADO. MOTIVACIÓN EN EL AULA",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "27/03/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "COMUNIDADES DE APRENDIZAJE. FASE DE SENSIBILIZACIÓN  (C) 2019-2020",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "15/02/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "REPARACIÓN Y SEGURIDAD DE DISPOSITIVOS MÓVILES",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "22/04/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "VIRTUALIZACIÓN DE SERVIDORES CON PROXMOX",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "27/04/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "EDUCACIÓN. I CONGRESO INTERNACIONAL DE EDUCACIÓN",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "19/03/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "GEOGEBRA COMO HERRAMIENTA DIDÁCTICA EN EL AULA",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "11/12/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "VIII ENCUENTRO EN ANDALUCÍA. GEOGEBRA EN EL AULA",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "21/03/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "EDICIÓN DE PARTITURAS CON MUSESCORE",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "11/12/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "EDICIÓN DE PARTITURAS CON MUSESCORE",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "31/03/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "LAS MATEMÁTICAS QUE NOS RODEAN",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "11/12/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "AULA DE CINE. ¡LLEVA EL CINE A LAS AULAS!",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "10/03/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "CURSO  ON LINE DE PRÁCTICA EN SIMULADORES DE IMAGEN PARA FAMILIA PROFESIONAL DE SANIDAD",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "20/12/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "BLOG AVERROES EN EL AULA",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "11/12/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "PROGRAMACIÓN DE VIDEOJUEGOS CON SCRATCH COMO HERRAMIENTA EDUCATIVA",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "11/12/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "PROGRAMACIÓN DE VIDEOJUEGOS CON SCRATCH COMO HERRAMIENTA EDUCATIVA",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "31/03/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "ORGANIZACIÓN DE EVENTOS Y PROTOCOLO",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "28/11/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "CONGRESO PARA LA INTERNACIONALIZACIÓN DE LA FP EN ANDALUCÍA",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "30/11/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "LA BIBLIOTECA ESCOLAR COMO CENTRO DE RECURSOS PARA LA ENSEÑANZA Y EL APRENDIZAJE. CURSO 1",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "24/03/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "PROGRAMAS PARA LA EDUCACIÓN EN EL USO DE LA INFORMACIÓN Y DE LOS RECURSOS DE APRENDIZAJE ARTICULADOS POR LA BIBLIOTECA ESCOLAR. CURSO 2",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "24/03/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "SELECCIÓN DE RECURSOS DIGITALES Y UTILIZACIÓN DE HERRAMIENTAS DEL LA WEB SOCIAL PARA LA BIBLIOTECA ESCOLAR. CURSO 3",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "24/03/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "BIBLIOWEB",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "24/03/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "XII ENCUENTRO ANDALUZ DE BLOGS EDUCATIVOS (EABE20)",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "28/03/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "VIII JORNADAS REGIONALES DE LA RED ANDALUZA DE BIBLIOTECAS ESCOLARES",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "05/02/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "XIII JORNADAS. LA DIRECCIÓN ESCOLAR: PREPÁRATE PARA SER, NO PARA PARECER",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "13/03/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "CREACIÓN DE MATERIALES EDUCATIVOS CON EXELEARNING Y AGREGA",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "18/12/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "INNOVATIVE TEACHING PRACTICES SUPPORTED BY THE FOCUSED USE OF ICT TOOLS IN THE LANGUAGE CLASSROOM",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "11/12/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "CREACIÓN DE MATERIALES EDUCATIVOS CON EXELEARNING Y AGREGA",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "31/03/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "INNOVATIVE TEACHING PRACTICES SUPPORTED BY THE FOCUSED USE OF ICT TOOLS IN THE LANGUAGE CLASSROOM",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "31/03/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "MOBILE LEARNING Y REALIDAD AUMENTADA",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "11/12/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "LA PRÁCTICA DE LA ESCRITURA CREATIVA EN LAS AULAS: NUEVAS POSIBILIDADES",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "11/12/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "PROYECTOS STEAM BASADOS EN PENSAMIENTO COMPUTACIONAL Y CULTURA MAKER",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "11/12/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "DISEÑO DE TAREAS COMPETENCIALES POR ESPECIALIDADES EN SECUNDARIA",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "11/12/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "DISEÑO DE TAREAS COMPETENCIALES POR ESPECIALIDADES EN SECUNDARIA",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "24/03/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "XV JORNADAS DE ESCUELAS DE ARTE DE ANDALUCIA",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "28/03/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "JORNADA DE TRABAJO DE COORDINADORES ERASMUS+ EN ESCUELAS DE ARTE DE ANDALUCIA",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "27/03/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "INTRODUCCIÓN A LA TUTORIZACIÓN Y EVALUACIÓN EN LA MODALIDAD SEMIPRESENCIAL CON MOODLE",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "17/12/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "EVALUACION FORMATIVA AVANZADA EN EL AULA VIRTUAL MOODLE PARA EDUCACIÓN PERMANENTE SEMIPRESENCIAL",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "17/12/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "JORNADA DE LA INSPECCIÓN DE EDUCACIÓN DE ANDALUCÍA : HACIA LA DIGITALIZACIÓN DESDE EL PLAN DE INSPECCIÓN",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "05/09/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "COMUNIDAD DE LECTORES Y ESCRITORES EN EL ÁMBITO ESCOLAR",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "11/12/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "ESTRATEGIAS PARA LA ATENCIÓN A LA DIVERSIDAD DEL ALUMNADO EN EL AULA ORDINARIA",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "11/12/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "I JORNADAS DE INNOVACIÓN EN VITIVINICULTURA ANDALUZA",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "30/11/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "FERIA DE LA IMAGEN PERSONAL",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "21/02/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "PROGRAMA DE PREVENCIÓN DEL ACOSO ESCOLAR Y CIBERACOSO. FORMACIÓN DE FORMADORES",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "02/12/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "VIII ENCUENTRO  DE LA RED ANDALUZA DE ECOESCUELAS",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "23/11/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "LA TUTORIZACIÓN EN EL AULA VIRTUAL DE FORMACIÓN DEL PROFESORADO",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "24/02/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "TUTORIZACIÓN Y DOCENCIA EN FORMACIÓN PROFESIONAL A DISTANCIA",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "18/10/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "TUTORIZACIÓN Y DOCENCIA EN FORMACIÓN PROFESIONAL SEMIPRESENCIAL",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "18/10/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "JORNADAS REGIONALES DE FORMACIÓN Y ENCUENTRO DE LAS ASESORÍAS. ZONA ORIENTAL",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "01/10/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "JORNADA FORMACIÓN EMBAJADORES ESERO",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "16/11/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "XII JORNADAS DEL CONSEJO ESCOLAR DE ANDALUCÍA",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "30/11/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "ABP. APRENDIZAJE BASADO EN PROYECTOS (INFANTIL Y PRIMARIA)",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "11/12/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "ABP. APRENDIZAJE BASADO EN PROYECTOS (INFANTIL Y PRIMARIA)",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "24/03/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "XX JORNADAS REGIONALES DE DIRECTORES/AS DE INSTITUTO. LA FUNCIÓN DIRECTIVA: PRÁCTICA, ACCIONES Y OBLIGACIONES",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "06/03/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "LA ENSEÑANZA BILINGÜE: AICLE I",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "11/12/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "ATENCIÓN A LA DIVERSIDAD EN APRENDIZAJE DE IDIOMAS",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "11/12/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "LEER, ESCRIBIR, EXPRESARSE... EN TODAS LAS ÁREAS DE SECUNDARIA",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "11/12/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "LEER, ESCRIBIR, EXPRESARSE... EN TODAS LAS ÁREAS DE PRIMARIA",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "11/12/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "PROYECTO RECAPACICLA",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "16/03/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "PROYECTO SEMILLA",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "01/04/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "FP: TALLER INICIACION AL MOULAGE",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "01/12/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "FP: ILUMINACIÓN - WYSIWYG",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "11/12/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "JORNADA PARA EL PROFESORADO DE PORTUGUÉS LENGUA EXTRANJERA",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "29/11/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "CURSO PARA EL PROFESORADO DE PORTUGUÉS LENGUA EXTRANJERA",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "30/04/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "NUEVAS TENDENCIAS METODOLÓGICAS EN EDUCACIÓN FÍSICA",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "11/12/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "METODOLOGÍA DEL TRABAJO INVESTIGADOR EN EL CENTRO EDUCATIVO",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "16/12/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "PROYECTO TERRAL",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "24/03/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "DETECCIÓN, IDENTIFICACIÓN Y ORIENTACIÓN DIRIGIDA AL ALUMNADO CON NECESIDADES ESPECÍFICAS DE APOYO EDUCATIVO",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "11/12/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "JORNADA REGIONAL ERASMUS+ PARA FORMACIÓN PROFESIONAL",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "28/11/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "ÓRBITAS",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "20/03/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "NUEVAS TECNOLOGÍAS APLICADAS A LA ELABORACIÓN Y ACTUALIZACIÓN DE MATERIALES PARA FORMACIÓN PROFESIONAL A DISTANCIA Y SEMIPRESENCIAL",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "31/03/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "EL MCERL EN LA PROGRAMACIÓN DE AULA DE LAS ÁREAS NO LINGÜÍSTICAS",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "18/12/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "BLOG AVERROES EN EL AULA",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "31/03/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "CREACIÓN DE MATERIALES REALISTAS PBR PARA VIDEOJUEGOS O CINE CON SUBSTANCE PAINTER.",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "17/12/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "LA EDUCACIÓN INTERCULTURAL DE LA TEORÍA A LA PRÁCTICA",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "11/12/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "PROPIEDAD INTELECTUAL",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "20/11/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "EDICIÓN DE AUDIO: ESTRATEGIAS METODOLÓGICAS PARA EL ENTORNO EDUCATIVO Y EL AULA DE MÚSICA",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "11/12/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "EDICIÓN DE AUDIO: ESTRATEGIAS METODOLÓGICAS PARA EL ENTORNO EDUCATIVO Y EL AULA DE MÚSICA",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "31/03/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "ACTUALIZACIÓN EN AUDIOLOGÍA PROTÉSICA",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "02/12/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "TÉCNICAS EN EMERGENCIAS SANITARIAS",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "19/12/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "CARACTERIZACIÓN: NUEVAS TECNOLOGÍAS Y EFECTOS ESPECIALES DE MAQUILLAJE.",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "14/12/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "ACTUALIZACIÓN EN AUDIOLOGÍA PROTÉSICA (II)",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "20/02/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "XIV  ENCUENTRO PROFESORADO DE ENSEÑANZA RELIGIOSA EVANGÉLICA''CAMINO DE EMAÚS''",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "05/12/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "GAMIFICACIÓN EN EL AULA DE RELIGIÓN EVANGÉLICA",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "11/03/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "BIOÉTICA. ACTUALIZACIÓN CURRICULAR",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "15/02/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "JORNADA FORMACIÓN DE ESCUELA CULTURA DE PAZ, EN LOS VALORES DEL DEPORTE, LA MÚSICA Y EL VOLUNTARIADO",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "13/03/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "I CONGRESO ANDALUZ DE COEDUCACIÓN: EDUCACIÓN Y FEMINISMO",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "06/03/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "JORNADAS ANDALUZAS DE FORMACIÓN PROFESIONAL DE LAS FAMILIAS PROFESIONALES DE QUÍMICA Y MARÍTIMO-PESQUERA",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "27/09/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "JORNADA DE CONTRASTE SOBRE EL ESTADO DE LA ORIENTACIÓN PROFESIONAL EN ANDALUCÍA",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "14/11/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "I ENCUENTRO DE ASESORÍAS DE REFERENCIA EN COMUNIDADES DE APRENDIZAJE EN ANDALUCÍA",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "18/03/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "JORNADAS REGIONALES DE FORMACIÓN Y ENCUENTRO DE LAS ASESORÍAS. ZONA OCCIDENTAL",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "03/10/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "PRUEBAS FUNCIONARIOS PRACTICAS 2019",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "10/11/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "PEDAGOGÍA TEATRAL PARA LA ENSEÑANZA  DEL ALEMAN",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "07/03/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "PROGRAMACIÓN DE SIMULACIONES EDUCATIVAS CON SNAP",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "11/12/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "BACHILLERATO INTERNACIONAL (PERSONAL DE DIRECCIÓN)",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "13/12/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "BACHILLERATO INTERNACIONAL (COORDINACIÓN)",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "13/12/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "BACHILLERATO INTERNACIONAL - PRIMERA EDICIÓN",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "25/01/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "BACHILLERATO INTERNACIONAL - SEGUNDA EDICION",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "01/02/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "BACHILLERATO INTERNACIONAL - TERCERA EDICIÓN",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "08/02/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "BACHILLERATO INTERNACIONAL - CUARTA EDICIÓN",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "15/02/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "BACHILLERATO INTERNACIONAL - QUINTA EDICIÓN",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "20/01/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "JORNADAS ANDALUZAS DE FORMACIÓN PROFESIONAL DE LA FAMILIA PROFESIONAL DE MADERA MUEBLE Y CORCHO",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "27/09/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "TUTORIZACIÓN Y DOCENCIA TELEMÁTICA EN FORMACIÓN PROFESIONAL",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "20/04/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "LO HICE Y APRENDÍ: CÓMO USAR MOODLE PARA EL TRABAJO DIARIO EN EL AULA",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "11/12/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "LO HICE Y APRENDÍ: CÓMO USAR MOODLE PARA EL TRABAJO DIARIO EN EL AULA",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "24/03/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "JORNADAS SOBRE SELECCIÓN Y EVALUACIÓN DE LA DIRECCIÓN ESCOLAR",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "27/11/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "JORNADAS ANDALUZAS DE FORMACIÓN PROFESIONAL DE LAS FAMILIAS PROFESIONALES DE ARTES GRÁFICAS Y TEXTIL CONFECCIÓN Y PIEL",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "27/09/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "PENSAMIENTO COMPUTACIONAL SIN DISPOSITIVOS EN INFANTIL Y PRIMARIA",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "11/12/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "PENSAMIENTO COMPUTACIONAL SIN DISPOSITIVOS EN INFANTIL Y PRIMARIA",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "24/03/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "JORNADAS ANDALUZAS DE FORMACIÓN PROFESIONAL DE LAS FAMILIAS PROFESIONALES DE  IMAGEN Y SONIDO Y  VIDRIO Y CERÁMICA",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "27/09/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "ATENCIÓN AL ALUMNADO CON NEAE EN CENTROS BILINGÚES",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "11/12/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "LA ENSEÑANZA BILINGÜE II: PROFUNDIZACIÓN EN LA METODOLOGÍA AICLE",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "18/12/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "LA ENSEÑANZA BILINGÜE II: PROFUNDIZACIÓN EN LA METODOLOGÍA AICLE",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "31/03/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "ABP. APRENDIZAJE BASADO EN PROYECTOS (SECUNDARIA Y BACHILLERATO)",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "11/12/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "XII JORNADAS EDUCATIVAS DE BENALMÁDENA: APRENDIZAJE EN EL SIGLO XXI: FAMILIA Y ESCUELA",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "06/02/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "MATEMATIZATE",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "19/02/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "XI JORNADA EDUCO-PREVENTIVA: INNOVACIÓN EDUCATIVA",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "16/11/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "XII FERIA DE LA CIENCIA IBN AL-BAYTAR",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "29/04/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "GESTION DE CENTROS PUBLICOS: CIERRE Y APERTURA DE EJERCICIO ECONOMICO, REGISTRO ELECTRONICO Y CONTRATACION",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "10/10/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "CUADERNO DEL PROFESORADO CON SÉNECA E ISÉNECA (ZONA ALHAURIN)",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "20/03/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "CUADERNO DEL PROFESORADO CON SÉNECA E ISÉNECA (ZONA ESTEPONA-MANILVA)",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "20/03/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "YOGA PARA EDUCAR",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "20/03/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "I FERIA STEAM EN ESTEPONA Y EN FUENGIROLA",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "30/04/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "EVALUACIÓN: PORFOLIO Y METACOGNICIÓN",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "15/02/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "BIOTECNOLOGÍA PARA PROFESORADO DE FORMACIÓN PROFESIONAL",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "01/10/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "PROGRAMACIÓN Y EVALUACIÓN EN F.P.",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "08/11/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "¿CÓMO IMPLEMENTAMOS NUESTRO PROYECTO DE DUAL?",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "14/10/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "PROGRAMACIÓN Y EVALUACIÓN EN F.P. (EXCLUSIVO PROFESORADO DE TARDE)",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "06/11/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "ESTILISMO MASCULINO: PASADO, PRESENTE Y FUTURO",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "23/11/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "GAMIFICACIÓN EN FORMACIÓN PROFESIONAL",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "29/02/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "ELABORACIÓN DE PROYECTOS DE INNOVACIÓN PARA F.P.",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "31/03/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "ACTUALIZACIÓN LABORAL Y SISTEMA RED (ADMON Y FINANZAS)",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "28/02/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "CUADERNO DEL PROFESORADO CON SÉNECA E ISÉNECA (ZONA ARROYO DE LA MIEL)",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "29/02/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "CUADERNO DEL PROFESORADO CON SÉNECA E ISÉNECA (ZONA SAN PEDRO DE ALCÁNTARA)",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "19/12/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "DISCIPLINA POSITIVA Y NEUROCIENCIA PARA DOCENTES (ZONA ESTEPONA)",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "18/02/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "DOMÓTICA LIBRE",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "19/12/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "MARKETING DIGITAL Y REDES SOCIALES",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "06/12/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "PRIMEROS AUXILIOS EN URGENCIAS MÁS FRECUENTES",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "05/03/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "DISEÑO Y PUESTA EN MARCHA DE UN PROGRAMA DE MEDIACIÓN ESCOLAR EN CEIPS",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "14/01/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "TRANSFORMA-ACCIÓN - PROGRAMA CAMBIO MOTOR: DAME UN REA Y CAMBIARÉ EL MUNDO",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "20/04/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "AUDIOVISUALES PARA LA CONVIVENCIA EN RELIGIÓN.",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "21/11/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "GAMIFICACION: APRENDEMOS JUGANDO",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "29/04/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "TRANSFORMA-ACCIÓN: PROGRAMA MATEMORFOSIS",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "02/04/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "INTEGRACIÓN DE LAS COMPETENCIAS CLAVE EN EL ÁMBITO EDUCATIVO NIVEL I. CEIP SAN LUIS DE SABINILLAS",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "25/03/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "INTEGRACIÓN DE LAS COMPETENCIAS CLAVE EN EL ÁMBITO EDUCATIVO NIVEL I. CEIP MAICANDIL",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "16/12/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "DISCIPLINA POSITIVA Y NEUROCIENCIA PARA DOCENTES. NIVEL I (ZONA SAN PEDRO)",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "02/03/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "PRIMEROS AUXILIOS EN URGENCIAS MÁS FRECUENTES (ZONA SAN PEDRO)",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "03/03/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "INTEGRACIÓN DE LAS COMPETENCIAS CLAVE EN EL ÁMBITO EDUCATIVO NIVEL I. CEIP MIGUEL HERNANDEZ",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "21/04/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "CUADERNO DEL PROFESORADO CON SÉNECA E ISÉNECA (ZONA NUEVA ANDALUCÍA)",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "17/03/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "EXPRESIÓN , COMPRENSIÓN ORAL Y COMPRENSIÓN LECTORA:¿CÓMO SUENA ESA LETRA?",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "10/12/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "4,3,2,1...DEVELOP STUDENT`S BASIC ENGLISH SKILLS WITH THE HELP OF MINDFULNESS",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "07/11/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "COMPETENCIAS CLAVE EN PRIMARIA",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "26/03/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "LA RELACIÓN DEL TDA-H CON LAS DIFICULTADES EN LAS HABILIDADES SOCIALES Y LA REPERCUSIÓN EN EL APRENDIZAJE ESCOLAR",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "11/09/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "GESTIÓN DEL AULA CON EL ENFOQUE EN NEUROEDUCACIÓN Y DISCIPLINA POSITIVA NIVEL II. (ZONA FUENGIROLA)",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "14/10/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "ENRIQUECE TUS PROGRAMACIONES CON RUTINAS DE PENSAMIENTO",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "31/03/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "COMUNICATE CON EL ALUMNADO SORDO: LENGUA DE SIGNOS,ESTRATEGIAS Y HERRAMIENTAS BÁSICAS PARA EL AULA",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "18/11/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "CUADERNO DEL PROFESORADO CON SÉNECA E ISÉNECA (ZONA LAS LAGUNAS)",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "21/02/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "EL TEATRO COMO METODOLOGÍA COMPETENCIAL",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "04/12/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "PENSAMIENTO COMPUTACIONAL Y ROBÓTICA PARA TOD@S",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "23/03/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "EL DEBATE COMO HERRAMIENTA CURRICULAR",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "21/02/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "EXPRESIÓN , COMPRENSIÓN ORAL Y COMPRENSIÓN LECTORA:¿CÓMO SUENA ESA LETRA?",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "12/02/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "METODOLOGÍA MONTESSORI EN EL AULA",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "27/11/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "CUADERNO DEL PROFESORADO CON SÉNECA E ISÉNECA (ZONA COÍN)",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "05/12/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "DISCIPLINA POSITIVA Y NEUROCIENCIA PARA DOCENTES. NIVEL I (ZONA COÍN)",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "26/11/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "CUADERNO DEL PROFESORADO CON SÉNECA E ISÉNECA (OJÉN)",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "17/12/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "GAMIFICACIÓN Y APRENDIZAJE COOPERATIVO",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "02/04/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "PRIMEROS AUXILIOS EN URGENCIAS MÁS FRECUENTES EN RESIDENCIAS ESCOLARES",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "06/03/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "PRIMEROS AUXILIOS EN URGENCIAS MÁS FRECUENTES EN UN CENTRO EDUCATIVO (ZONA CALA DE MIJAS-FUENGIROLA)",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "29/11/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "JORNADAS SOBRE BUENAS PRÁCTICAS EN EL ÁREA DE MÚSICA",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "20/11/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "INTEGRACIÓN DE LAS COMPETENCIAS CLAVE EN EL ÁMBITO EDUCATIVO NIVEL I. CEIP INDIRA GHANDI",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "20/04/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "INTEGRACIÓN DE LAS COMPETENCIAS CLAVE EN EL ÁMBITO EDUCATIVO NIVEL I. CEIP TAMIXA",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "29/04/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "ACTUALIZACIÓN EN BIBLIOWEB 2 PARA RESPONSABLES Y EQUIPOS DE APOYO",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "22/10/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "HERRAMIENTAS DE COACHING Y PNL APLICADAS A LA EDUCACIÓN MUSICAL",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "17/12/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "INTEGRACIÓN DE LAS COMPETENCIAS CLAVE EN EL ÁMBITO EDUCATIVO NIVEL I. CEIP EL OLMO",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "29/04/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "CUADERNO DIGITAL SÉNECA: EVALUACIÓN Y COMPETENCIAS",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "19/09/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "TRANSFORMA-ACCIÓN: PROGRAMA CON-SEGUIMOS",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "23/04/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "NEUROEDUCACIÓN. EMOCIÓN Y APRENDIZAJE.",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "09/11/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "CREATIVAMENTE: VISUAL THINKING",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "19/03/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "COHESIÓN DE EQUIPOS, CONVIVENCIA Y TIC",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "12/03/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "ESTUDIO DE LA IMAGEN PERSONAL EN FORMACIÓN PROFESIONAL",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "01/10/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "WYSIWYG, DISEÑO DE ILUMINACIÓN 3D",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "16/12/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "NUEVAS TENDENCIAS EN ELABORACIÓN DE PLATOS A LA VISTA DEL CLIENTE EN SALA",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "01/10/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "POSTICERIA PARA CARACTERIZACIÓN Y PELUQUERÍA ONCOLÓGICA",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "10/12/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "ILUMINACIÓN EN EL CINE",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "11/12/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "RESOLUCIÓN DE PROBLEMAS MATEMÁTICOS: CREATIVIDAD Y RAZONAMIENTO",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "14/09/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "TALLER DE PROGRAMACIÓN POR COMPETENCIAS PARA SECUNDARIA",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "07/10/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "CURSO DE INICIACIÓN AL USO DE LA PLATAFORMA MOODLE",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "11/02/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "CUIDANDO NUESTRA VOZ: USO SALUDABLE  DE LA VOZ Y PREVENCIÓN DE PATOLOGÍA VOCAL.",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "27/11/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "DISEÑO DE ESTRATEGIAS SENSORIO-MOTRICES EN UN AULA SENSORIAL",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "12/02/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "DISCALCULIA: ¿DIFICULTADES CON LOS NÚMEROS Y EL CÁLCULO?",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "20/02/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "CUIDANDO NUESTRA VOZ: USO SALUDABLE  DE LA VOZ Y PREVENCIÓN DE PATOLOGÍA VOCAL.",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "28/11/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "FOMENTO DE LA COMUNICACIÓN LINGÜÍSTICA EN LOS CENTROS",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "18/09/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "DIRECCIÓN PARA LA MEJORA DE LOS RESULTADOS ESCOLARES",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "23/01/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "JORNADA DE EXPERIENCIAS CON JOLLY PHONICS",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "11/03/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "JORNADAS EDUCATIVAS COMUNIDAD CEIP BLAS INFANTE",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "09/11/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "CONSTRUYENDO LA EDUCACIÓN AFECTIVO-SEXUAL.",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "05/11/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "POR UNA SEXUALIDAD SANA (CONSUMO DE  PORNOGRAFÍA Y CONSECUENCIAS  EN LA ADOLESCENCIA )",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "23/04/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "LOS PROCESOS DE AUTOEVALUACIÓN Y MEJORA COMO BASE DE LA INNOVACIÓN EDUCATIVA",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "04/02/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "LIBERA A LA ESCUELA DEL LABERINTO DEL TIEMPO CON  CREATIVIDAD EN 4D",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "10/03/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "EDUCACIÓN. I CONGRESO INTERNACIONAL DE EDUCACIÓN",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "19/03/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "LA GESTIÓN EMOCIONAL A TRAVÉS DEL MINDFULNESS Y LA COHESIÓN DE GRUPO",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "15/11/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "APRENDIZAJE COOPERATIVO",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "30/01/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "PROMOTING A GROWTH MINDSET THROUGH INNOVATIVE ACTIVITIES FOR CLIL",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "04/03/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "EL NUEVO CURRÍCULO Y LA MEDIACIÓN EN EL AULA",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "27/03/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "FORMACIÓN PARA JEFATURAS DE ESTUDIO",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "28/01/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "MIRA CON ACIERTO LA DISLEXIA: ''EL LENGUAJE TIENE SENTIDO Y SE PUEDE MODELIZAR''",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "12/12/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "ASAMBLEAS ESTRUCTURADAS EN E.I Y E.P PARA TRABAJAR LA ORALIDAD CON TU ALUMNADO",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "06/02/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "USO DEL CUADERNO DEL PROFESORADO",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "16/02/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "KAPICÚA: COMPARTIENDO EXPERIENCIAS MATEMÁTICAS II",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "30/04/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "CÓMO DAR CLASE A QUIENES NO QUIEREN",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "16/04/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "COLABORAR PARA AVANZAR: MEJORA DE LA COORDINACIÓN EN GRUPOS DE TRABAJO",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "07/11/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "JORNADA PROVINCIAL DE PLURILINGÜISMO",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "15/04/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "COMUNIDADES DE APRENDIZAJE. FASE DE SENSIBILIZACIÓN (I)",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "29/02/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "JORNADA PROVINCIAL ETWINNING",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "19/03/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "JORNADA DE FORMACIÓN FP DUAL",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "21/10/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "CURSO DE FORMACIÓN DE GEMELO DIGITAL Y VIRTUAL APLICADO A LA INDUSTRIA 4.0",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "04/12/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "INICIACIÓN A LA PREVENCIÓN DE RIESGOS LABORALES EN LA DOCENCIA",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "19/02/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "JORNADA DE FORMADOR DE FORMADORES EN DEBATE EDUCATIVO",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "07/11/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "EL DEBATE COMO HERRAMIENTA CURRICULAR",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "15/01/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "FORMACIÓN DESTINADA A JUECES Y JUEZAS DE DEBATE",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "15/02/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "DINAMIZACIÓN DEL II TORNEO DE DEBATE EDUCATIVO DE LA PROVINCIA DE MÁLAGA",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "31/03/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "FORMACIÓN DEL PERSONAL FUNCIONARIO EN PRÁCTICAS 2019-20. FASE PRESENCIAL",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "31/03/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "MÓDULO BÁSICO: REDACCIÓN DE PROYECTOS ERASMUS+",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "30/01/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "INICIACIÓN A LA PREVENCIÓN DE RIESGOS LABORALES EN LA DOCENCIA",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "28/02/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "DALE LA VUELTA A TU CLASE (FLIPPED CLASSROOM)",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "11/12/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "DALE LA VUELTA A TU CLASE (FLIPPED CLASSROOM)",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "24/03/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "DISEÑO Y FABRICACIÓN DE ELEMENTOS PARA LA CONSTRUCCIÓN EN MADERA.\tLAS ESCALERAS DE MADERA",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "01/10/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "INSTALACIÓN DE SISTEMAS CON PLACAS DE YESO LAMINADO",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "01/10/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "INTRODUCCIÓN A  SALESFORCE",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "01/10/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "GESTIÓN DE ZONAS VERDES CON GIS",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "15/10/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "PROGRAMACIÓN, EVALUACIÓN Y GESTIÓN DEL AULA",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "21/10/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "TECNOLOGÍAS DE PROPULSIÓN EN VEHÍCULOS HÍBRIDOS Y VEHÍCULOS 100% ELÉCTRICOS",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "01/10/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "INMERSIÓN MOODLE CURSO 2019-20",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "23/10/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "ENCUENTRO DUALIZA MÁLAGA. PRESENTE Y FUTURO DE LA FORMACIÓN PROFESIONAL DUAL EN MÁLAGA",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "29/10/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "INTERNACIONALIZACIÓN EN LA FORMACIÓN PROFESIONAL:  ORGANIZACIÓN, OPORTUNIDADES Y FUTURO",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "05/11/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "NIVEL BÁSICO DE PREVENCIÓN EN CONSTRUCCIÓN",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "10/12/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "XIII JORNADAS ANDALUZAS DE LA ENSEÑANZA DE LA ECONOMÍA EN SECUNDARIA",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "15/02/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "INTERVENCIÓN EN ALUMNADO TEA GRAVEMENTE AFECTADO",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "26/11/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "JORNADA DE LA RED MALAGUEÑA DE MEDIACIÓN",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "07/11/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "PRÁCTICA DEL COMPÁS FLAMENCO: APLICACIÓN PRÁCTICA, DIDÁCTICA Y ARMONÍA",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "08/11/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "GESTIÓN DEL ESTRÉS EN ARE",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "30/10/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "METODOLOGÍA Y PROFUNDIZACIÓN DEL ''CONTACT IMPROVISATION'' COMO METODOLOGÍA DE LA DANZA CONTEMPORÁNEA",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "12/09/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "I CONGRESO NACIONAL SOBRE INVESTIGACIÓN  EN MÚSICA Y ARTES ESCÉNICAS",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "15/03/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "SKETCHUP AVANZADO PARA ESCUELAS DE ARTE",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "11/09/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "IV ENCUENTRO REGIONAL DEL PROFESORADO DE ESPAÑOL PARA EXTRANJEROS DE EEOOII DE ANDALUCÍA",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "21/02/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "REGULACIÓN Y CONTROL EN LA INDUSTRIA FARMACÉUTICA, BIOTECNOLÓGICA Y AFINES",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "12/12/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "JORNADA PRIMER CICLO DE EDUCACIÓN INFANTIL",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "20/03/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "FORMACIÓN PARA ORIENTACIÓN EDUCATIVA NOVEL",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "02/04/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "EDUCACIÓN. I CONGRESO INTERNACIONAL DE EDUCACIÓN",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "19/03/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "I CONGRESO INTERNACIONAL DE PRÁCTICAS INNOVADORAS EN EDUCACIÓN INFANTIL DE 0 A 3 AÑOS",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "25/04/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "SOFT SKILLS: LAS COMPETENCIAS MÁS DEMANDADAS POR LAS EMPRESAS 2020",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "16/04/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "LAS PRÁCTICAS RECOMENDADAS EN ATENCIÓN TEMPRANA",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "15/04/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "FORMACIÓN PARA EL USO DE LAS NUEVAS HOJAS DE OBSERVACIÓN DE LAS PRUEBAS ESPECÍFICAS TERMINALES DE CERTIFICACIÓN",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "24/01/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "LA SALUD ESTÁ EN TU MANO",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "29/04/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "SIMULADORES PARA EL DIAGNÓSTICO POR IMAGEN DE LA FAMILIA DE SANIDAD",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "04/12/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "USO DE LA PLATAFORMA MOODLE CENTROS",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "23/04/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "FORMACIÓN PARA LA MENTORIZACIÓN DE FUNCIONARIOS EN PRÁCTICAS",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "26/11/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "FORMACIÓN PERSONAL FUNCIONARIO EN PRÁCTICAS PRIMARIA 2019-20. FASE ON-LINE",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "31/03/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "JORNADAS INICIALES ERASMUS+",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "02/12/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "JORNADA TRINITY: EL PORTFOLIO COMO HERRAMIENTA PARA LA ENSEÑANZA DE LA EXPRESIÓN ESCRITA",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "14/11/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "JORNADA CAMBRIDGE: PLANIFICACIÓN DE UNA CLASE AICLE",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "24/02/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "ENCUENTRO CENTROS LABEL FRANCÉDUCATION 2020",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "15/04/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "INTRODUCCIÓN A LAS COMUNIDADES DE APRENDIZAJE",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "11/12/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "INNICIA: HERRAMIENTAS PARA EL EMPRENDIMIENTO EDUCATIVO",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "03/04/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "PROYECTO EDUCAVES",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "10/03/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "EDUCACIÓN. I CONGRESO INTERNACIONAL DE EDUCACIÓN",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "19/03/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "EL APRENDIZAJE COOPERATIVO COMO ESTRATEGIA DE GESTIÓN DEL AULA",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "11/12/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "SIMULACIÓN Y VIRTUALIZACION DE APARATOS KNX Y USO DE LA HERRAMIENTA ETS5 (II)",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "11/09/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "CODIFICACIÓN DE DIAGNOSTICOS Y PROCEDIMIENTOS CON CIE 10 ES",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "31/10/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "EVALUACIÓN Y PROGRAMACIÓN EN F.P. LOE",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "12/11/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "INSTALACIONES FRIGORÍFICAS Y CLIMATIZACIÓN",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "15/12/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "INICIACIÓN A PROYECTOS ERASMUS + E INTERNACIONALIZACIÓN DE LA FORMACIÓN PROFESIONAL.",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "03/12/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "GESTIÓN ADMINISTRATIVA Y ECONÓMICA DE PROYECTOS ERASMUS + EN FORMACIÓN PROFESIONAL",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "05/03/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "XX JORNADAS DE INNOVACIÓN PEDAGÓGICA DE ANTEQUERA",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "14/03/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "JORNADAS DE BUENAS PRÁCTICAS SOBRE GAMIFICACIÓN",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "11/01/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "LA LABOR DE LA INSPECCIÓN DE EDUCACIÓN EN LA EVALUACIÓN Y SEGUIMIENTO DE CENTROS DOCENTES, SERVICIOS, PROGRAMAS Y ACTIVIDADES DEL SISTEMA EDUCATIVO",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "16/01/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "EDUCACIÓN. I CONGRESO INTERNACIONAL DE EDUCACIÓN",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "19/03/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "JORNADA DE FORMACIÓN SÉNECA EXÁMENES ONLINE",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "19/11/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "CURSO  ON LINE DE PRÁCTICA EN SIMULADORES DE IMAGEN PARA FAMILIA PROFESIONAL DE SANIDAD",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "20/12/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "CURSO EN ROBOTSTUDIO ANIMATION",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "22/11/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "IV ENCUENTRO DE CENTROS DE CALIDAD",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "28/11/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "JORNADAS REGIONALES DE ASESORÍAS DE FORMACIÓN PROFESIONAL",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "13/12/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "EL MCERL EN LA PROGRAMACIÓN DE AULA DE LAS ÁREAS LINGÜÍSTICAS",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "11/12/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "CONTROL DE LA ANSIEDAD ESCÉNICA DEL ALUMNADO. MOTIVACIÓN EN EL AULA",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "27/03/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "COMUNIDADES DE APRENDIZAJE. FASE DE SENSIBILIZACIÓN  (C) 2019-2020",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "15/02/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "REPARACIÓN Y SEGURIDAD DE DISPOSITIVOS MÓVILES",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "22/04/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "VIRTUALIZACIÓN DE SERVIDORES CON PROXMOX",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "27/04/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "EDUCACIÓN. I CONGRESO INTERNACIONAL DE EDUCACIÓN",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "19/03/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "GEOGEBRA COMO HERRAMIENTA DIDÁCTICA EN EL AULA",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "11/12/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "VIII ENCUENTRO EN ANDALUCÍA. GEOGEBRA EN EL AULA",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "21/03/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "EDICIÓN DE PARTITURAS CON MUSESCORE",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "11/12/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "EDICIÓN DE PARTITURAS CON MUSESCORE",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "31/03/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "LAS MATEMÁTICAS QUE NOS RODEAN",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "11/12/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "AULA DE CINE. ¡LLEVA EL CINE A LAS AULAS!",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "10/03/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "CURSO  ON LINE DE PRÁCTICA EN SIMULADORES DE IMAGEN PARA FAMILIA PROFESIONAL DE SANIDAD",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "20/12/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "BLOG AVERROES EN EL AULA",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "11/12/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "PROGRAMACIÓN DE VIDEOJUEGOS CON SCRATCH COMO HERRAMIENTA EDUCATIVA",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "11/12/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "PROGRAMACIÓN DE VIDEOJUEGOS CON SCRATCH COMO HERRAMIENTA EDUCATIVA",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "31/03/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "ORGANIZACIÓN DE EVENTOS Y PROTOCOLO",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "28/11/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "CONGRESO PARA LA INTERNACIONALIZACIÓN DE LA FP EN ANDALUCÍA",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "30/11/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "LA BIBLIOTECA ESCOLAR COMO CENTRO DE RECURSOS PARA LA ENSEÑANZA Y EL APRENDIZAJE. CURSO 1",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "24/03/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "PROGRAMAS PARA LA EDUCACIÓN EN EL USO DE LA INFORMACIÓN Y DE LOS RECURSOS DE APRENDIZAJE ARTICULADOS POR LA BIBLIOTECA ESCOLAR. CURSO 2",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "24/03/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "SELECCIÓN DE RECURSOS DIGITALES Y UTILIZACIÓN DE HERRAMIENTAS DEL LA WEB SOCIAL PARA LA BIBLIOTECA ESCOLAR. CURSO 3",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "24/03/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "BIBLIOWEB",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "24/03/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "XII ENCUENTRO ANDALUZ DE BLOGS EDUCATIVOS (EABE20)",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "28/03/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "VIII JORNADAS REGIONALES DE LA RED ANDALUZA DE BIBLIOTECAS ESCOLARES",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "05/02/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "XIII JORNADAS. LA DIRECCIÓN ESCOLAR: PREPÁRATE PARA SER, NO PARA PARECER",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "13/03/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "CREACIÓN DE MATERIALES EDUCATIVOS CON EXELEARNING Y AGREGA",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "18/12/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "INNOVATIVE TEACHING PRACTICES SUPPORTED BY THE FOCUSED USE OF ICT TOOLS IN THE LANGUAGE CLASSROOM",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "11/12/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "CREACIÓN DE MATERIALES EDUCATIVOS CON EXELEARNING Y AGREGA",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "31/03/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "INNOVATIVE TEACHING PRACTICES SUPPORTED BY THE FOCUSED USE OF ICT TOOLS IN THE LANGUAGE CLASSROOM",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "31/03/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "MOBILE LEARNING Y REALIDAD AUMENTADA",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "11/12/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "LA PRÁCTICA DE LA ESCRITURA CREATIVA EN LAS AULAS: NUEVAS POSIBILIDADES",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "11/12/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "PROYECTOS STEAM BASADOS EN PENSAMIENTO COMPUTACIONAL Y CULTURA MAKER",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "11/12/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "DISEÑO DE TAREAS COMPETENCIALES POR ESPECIALIDADES EN SECUNDARIA",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "11/12/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "DISEÑO DE TAREAS COMPETENCIALES POR ESPECIALIDADES EN SECUNDARIA",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "24/03/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "XV JORNADAS DE ESCUELAS DE ARTE DE ANDALUCIA",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "28/03/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "JORNADA DE TRABAJO DE COORDINADORES ERASMUS+ EN ESCUELAS DE ARTE DE ANDALUCIA",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "27/03/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "INTRODUCCIÓN A LA TUTORIZACIÓN Y EVALUACIÓN EN LA MODALIDAD SEMIPRESENCIAL CON MOODLE",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "17/12/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "EVALUACION FORMATIVA AVANZADA EN EL AULA VIRTUAL MOODLE PARA EDUCACIÓN PERMANENTE SEMIPRESENCIAL",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "17/12/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "JORNADA DE LA INSPECCIÓN DE EDUCACIÓN DE ANDALUCÍA : HACIA LA DIGITALIZACIÓN DESDE EL PLAN DE INSPECCIÓN",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "05/09/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "COMUNIDAD DE LECTORES Y ESCRITORES EN EL ÁMBITO ESCOLAR",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "11/12/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "ESTRATEGIAS PARA LA ATENCIÓN A LA DIVERSIDAD DEL ALUMNADO EN EL AULA ORDINARIA",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "11/12/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "I JORNADAS DE INNOVACIÓN EN VITIVINICULTURA ANDALUZA",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "30/11/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "FERIA DE LA IMAGEN PERSONAL",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "21/02/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "PROGRAMA DE PREVENCIÓN DEL ACOSO ESCOLAR Y CIBERACOSO. FORMACIÓN DE FORMADORES",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "02/12/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "VIII ENCUENTRO  DE LA RED ANDALUZA DE ECOESCUELAS",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "23/11/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "LA TUTORIZACIÓN EN EL AULA VIRTUAL DE FORMACIÓN DEL PROFESORADO",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "24/02/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "TUTORIZACIÓN Y DOCENCIA EN FORMACIÓN PROFESIONAL A DISTANCIA",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "18/10/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "TUTORIZACIÓN Y DOCENCIA EN FORMACIÓN PROFESIONAL SEMIPRESENCIAL",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "18/10/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "JORNADAS REGIONALES DE FORMACIÓN Y ENCUENTRO DE LAS ASESORÍAS. ZONA ORIENTAL",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "01/10/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "JORNADA FORMACIÓN EMBAJADORES ESERO",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "16/11/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "XII JORNADAS DEL CONSEJO ESCOLAR DE ANDALUCÍA",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "30/11/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "ABP. APRENDIZAJE BASADO EN PROYECTOS (INFANTIL Y PRIMARIA)",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "11/12/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "ABP. APRENDIZAJE BASADO EN PROYECTOS (INFANTIL Y PRIMARIA)",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "24/03/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "XX JORNADAS REGIONALES DE DIRECTORES/AS DE INSTITUTO. LA FUNCIÓN DIRECTIVA: PRÁCTICA, ACCIONES Y OBLIGACIONES",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "06/03/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "LA ENSEÑANZA BILINGÜE: AICLE I",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "11/12/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "ATENCIÓN A LA DIVERSIDAD EN APRENDIZAJE DE IDIOMAS",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "11/12/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "LEER, ESCRIBIR, EXPRESARSE... EN TODAS LAS ÁREAS DE SECUNDARIA",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "11/12/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "LEER, ESCRIBIR, EXPRESARSE... EN TODAS LAS ÁREAS DE PRIMARIA",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "11/12/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "PROYECTO RECAPACICLA",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "16/03/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "PROYECTO SEMILLA",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "01/04/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "FP: TALLER INICIACION AL MOULAGE",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "01/12/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "FP: ILUMINACIÓN - WYSIWYG",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "11/12/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "JORNADA PARA EL PROFESORADO DE PORTUGUÉS LENGUA EXTRANJERA",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "29/11/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "CURSO PARA EL PROFESORADO DE PORTUGUÉS LENGUA EXTRANJERA",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "30/04/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "NUEVAS TENDENCIAS METODOLÓGICAS EN EDUCACIÓN FÍSICA",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "11/12/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "METODOLOGÍA DEL TRABAJO INVESTIGADOR EN EL CENTRO EDUCATIVO",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "16/12/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "PROYECTO TERRAL",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "24/03/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "DETECCIÓN, IDENTIFICACIÓN Y ORIENTACIÓN DIRIGIDA AL ALUMNADO CON NECESIDADES ESPECÍFICAS DE APOYO EDUCATIVO",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "11/12/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "JORNADA REGIONAL ERASMUS+ PARA FORMACIÓN PROFESIONAL",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "28/11/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "ÓRBITAS",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "20/03/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "NUEVAS TECNOLOGÍAS APLICADAS A LA ELABORACIÓN Y ACTUALIZACIÓN DE MATERIALES PARA FORMACIÓN PROFESIONAL A DISTANCIA Y SEMIPRESENCIAL",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "31/03/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "EL MCERL EN LA PROGRAMACIÓN DE AULA DE LAS ÁREAS NO LINGÜÍSTICAS",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "18/12/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "BLOG AVERROES EN EL AULA",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "31/03/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "CREACIÓN DE MATERIALES REALISTAS PBR PARA VIDEOJUEGOS O CINE CON SUBSTANCE PAINTER.",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "17/12/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "LA EDUCACIÓN INTERCULTURAL DE LA TEORÍA A LA PRÁCTICA",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "11/12/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "PROPIEDAD INTELECTUAL",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "20/11/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "EDICIÓN DE AUDIO: ESTRATEGIAS METODOLÓGICAS PARA EL ENTORNO EDUCATIVO Y EL AULA DE MÚSICA",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "11/12/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "EDICIÓN DE AUDIO: ESTRATEGIAS METODOLÓGICAS PARA EL ENTORNO EDUCATIVO Y EL AULA DE MÚSICA",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "31/03/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "ACTUALIZACIÓN EN AUDIOLOGÍA PROTÉSICA",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "02/12/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "TÉCNICAS EN EMERGENCIAS SANITARIAS",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "19/12/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "CARACTERIZACIÓN: NUEVAS TECNOLOGÍAS Y EFECTOS ESPECIALES DE MAQUILLAJE.",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "14/12/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "ACTUALIZACIÓN EN AUDIOLOGÍA PROTÉSICA (II)",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "20/02/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "XIV  ENCUENTRO PROFESORADO DE ENSEÑANZA RELIGIOSA EVANGÉLICA''CAMINO DE EMAÚS''",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "05/12/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "GAMIFICACIÓN EN EL AULA DE RELIGIÓN EVANGÉLICA",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "11/03/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "BIOÉTICA. ACTUALIZACIÓN CURRICULAR",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "15/02/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "JORNADA FORMACIÓN DE ESCUELA CULTURA DE PAZ, EN LOS VALORES DEL DEPORTE, LA MÚSICA Y EL VOLUNTARIADO",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "13/03/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "I CONGRESO ANDALUZ DE COEDUCACIÓN: EDUCACIÓN Y FEMINISMO",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "06/03/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "JORNADAS ANDALUZAS DE FORMACIÓN PROFESIONAL DE LAS FAMILIAS PROFESIONALES DE QUÍMICA Y MARÍTIMO-PESQUERA",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "27/09/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "JORNADA DE CONTRASTE SOBRE EL ESTADO DE LA ORIENTACIÓN PROFESIONAL EN ANDALUCÍA",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "14/11/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "I ENCUENTRO DE ASESORÍAS DE REFERENCIA EN COMUNIDADES DE APRENDIZAJE EN ANDALUCÍA",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "18/03/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "JORNADAS REGIONALES DE FORMACIÓN Y ENCUENTRO DE LAS ASESORÍAS. ZONA OCCIDENTAL",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "03/10/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "PRUEBAS FUNCIONARIOS PRACTICAS 2019",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "10/11/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "PEDAGOGÍA TEATRAL PARA LA ENSEÑANZA  DEL ALEMAN",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "07/03/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "PROGRAMACIÓN DE SIMULACIONES EDUCATIVAS CON SNAP",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "11/12/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "BACHILLERATO INTERNACIONAL (PERSONAL DE DIRECCIÓN)",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "13/12/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "BACHILLERATO INTERNACIONAL (COORDINACIÓN)",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "13/12/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "BACHILLERATO INTERNACIONAL - PRIMERA EDICIÓN",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "25/01/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "BACHILLERATO INTERNACIONAL - SEGUNDA EDICION",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "01/02/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "BACHILLERATO INTERNACIONAL - TERCERA EDICIÓN",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "08/02/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "BACHILLERATO INTERNACIONAL - CUARTA EDICIÓN",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "15/02/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "BACHILLERATO INTERNACIONAL - QUINTA EDICIÓN",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "20/01/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "JORNADAS ANDALUZAS DE FORMACIÓN PROFESIONAL DE LA FAMILIA PROFESIONAL DE MADERA MUEBLE Y CORCHO",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "27/09/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "TUTORIZACIÓN Y DOCENCIA TELEMÁTICA EN FORMACIÓN PROFESIONAL",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "20/04/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "LO HICE Y APRENDÍ: CÓMO USAR MOODLE PARA EL TRABAJO DIARIO EN EL AULA",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "11/12/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "LO HICE Y APRENDÍ: CÓMO USAR MOODLE PARA EL TRABAJO DIARIO EN EL AULA",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "24/03/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "JORNADAS SOBRE SELECCIÓN Y EVALUACIÓN DE LA DIRECCIÓN ESCOLAR",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "27/11/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "JORNADAS ANDALUZAS DE FORMACIÓN PROFESIONAL DE LAS FAMILIAS PROFESIONALES DE ARTES GRÁFICAS Y TEXTIL CONFECCIÓN Y PIEL",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "27/09/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "PENSAMIENTO COMPUTACIONAL SIN DISPOSITIVOS EN INFANTIL Y PRIMARIA",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "11/12/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "PENSAMIENTO COMPUTACIONAL SIN DISPOSITIVOS EN INFANTIL Y PRIMARIA",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "24/03/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "JORNADAS ANDALUZAS DE FORMACIÓN PROFESIONAL DE LAS FAMILIAS PROFESIONALES DE  IMAGEN Y SONIDO Y  VIDRIO Y CERÁMICA",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "27/09/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "ATENCIÓN AL ALUMNADO CON NEAE EN CENTROS BILINGÚES",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "11/12/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "LA ENSEÑANZA BILINGÜE II: PROFUNDIZACIÓN EN LA METODOLOGÍA AICLE",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "18/12/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "LA ENSEÑANZA BILINGÜE II: PROFUNDIZACIÓN EN LA METODOLOGÍA AICLE",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "31/03/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "ABP. APRENDIZAJE BASADO EN PROYECTOS (SECUNDARIA Y BACHILLERATO)",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "11/12/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "XII JORNADAS EDUCATIVAS DE BENALMÁDENA: APRENDIZAJE EN EL SIGLO XXI: FAMILIA Y ESCUELA",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "06/02/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "MATEMATIZATE",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "19/02/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "XI JORNADA EDUCO-PREVENTIVA: INNOVACIÓN EDUCATIVA",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "16/11/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "XII FERIA DE LA CIENCIA IBN AL-BAYTAR",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "29/04/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "GESTION DE CENTROS PUBLICOS: CIERRE Y APERTURA DE EJERCICIO ECONOMICO, REGISTRO ELECTRONICO Y CONTRATACION",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "10/10/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "CUADERNO DEL PROFESORADO CON SÉNECA E ISÉNECA (ZONA ALHAURIN)",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "20/03/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "CUADERNO DEL PROFESORADO CON SÉNECA E ISÉNECA (ZONA ESTEPONA-MANILVA)",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "20/03/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "YOGA PARA EDUCAR",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "20/03/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "I FERIA STEAM EN ESTEPONA Y EN FUENGIROLA",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "30/04/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "EVALUACIÓN: PORFOLIO Y METACOGNICIÓN",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "15/02/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "BIOTECNOLOGÍA PARA PROFESORADO DE FORMACIÓN PROFESIONAL",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "01/10/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "PROGRAMACIÓN Y EVALUACIÓN EN F.P.",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "08/11/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "¿CÓMO IMPLEMENTAMOS NUESTRO PROYECTO DE DUAL?",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "14/10/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "PROGRAMACIÓN Y EVALUACIÓN EN F.P. (EXCLUSIVO PROFESORADO DE TARDE)",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "06/11/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "ESTILISMO MASCULINO: PASADO, PRESENTE Y FUTURO",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "23/11/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "GAMIFICACIÓN EN FORMACIÓN PROFESIONAL",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "29/02/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "ELABORACIÓN DE PROYECTOS DE INNOVACIÓN PARA F.P.",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "31/03/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "ACTUALIZACIÓN LABORAL Y SISTEMA RED (ADMON Y FINANZAS)",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "28/02/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "CUADERNO DEL PROFESORADO CON SÉNECA E ISÉNECA (ZONA ARROYO DE LA MIEL)",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "29/02/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "CUADERNO DEL PROFESORADO CON SÉNECA E ISÉNECA (ZONA SAN PEDRO DE ALCÁNTARA)",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "19/12/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "DISCIPLINA POSITIVA Y NEUROCIENCIA PARA DOCENTES (ZONA ESTEPONA)",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "18/02/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "DOMÓTICA LIBRE",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "19/12/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "MARKETING DIGITAL Y REDES SOCIALES",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "06/12/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "PRIMEROS AUXILIOS EN URGENCIAS MÁS FRECUENTES",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "05/03/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "DISEÑO Y PUESTA EN MARCHA DE UN PROGRAMA DE MEDIACIÓN ESCOLAR EN CEIPS",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "14/01/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "TRANSFORMA-ACCIÓN - PROGRAMA CAMBIO MOTOR: DAME UN REA Y CAMBIARÉ EL MUNDO",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "20/04/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "AUDIOVISUALES PARA LA CONVIVENCIA EN RELIGIÓN.",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "21/11/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "GAMIFICACION: APRENDEMOS JUGANDO",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "29/04/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "TRANSFORMA-ACCIÓN: PROGRAMA MATEMORFOSIS",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "02/04/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "INTEGRACIÓN DE LAS COMPETENCIAS CLAVE EN EL ÁMBITO EDUCATIVO NIVEL I. CEIP SAN LUIS DE SABINILLAS",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "25/03/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "INTEGRACIÓN DE LAS COMPETENCIAS CLAVE EN EL ÁMBITO EDUCATIVO NIVEL I. CEIP MAICANDIL",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "16/12/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "DISCIPLINA POSITIVA Y NEUROCIENCIA PARA DOCENTES. NIVEL I (ZONA SAN PEDRO)",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "02/03/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "PRIMEROS AUXILIOS EN URGENCIAS MÁS FRECUENTES (ZONA SAN PEDRO)",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "03/03/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "INTEGRACIÓN DE LAS COMPETENCIAS CLAVE EN EL ÁMBITO EDUCATIVO NIVEL I. CEIP MIGUEL HERNANDEZ",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "21/04/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "CUADERNO DEL PROFESORADO CON SÉNECA E ISÉNECA (ZONA NUEVA ANDALUCÍA)",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "17/03/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "EXPRESIÓN , COMPRENSIÓN ORAL Y COMPRENSIÓN LECTORA:¿CÓMO SUENA ESA LETRA?",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "10/12/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "4,3,2,1...DEVELOP STUDENT`S BASIC ENGLISH SKILLS WITH THE HELP OF MINDFULNESS",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "07/11/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "COMPETENCIAS CLAVE EN PRIMARIA",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "26/03/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "LA RELACIÓN DEL TDA-H CON LAS DIFICULTADES EN LAS HABILIDADES SOCIALES Y LA REPERCUSIÓN EN EL APRENDIZAJE ESCOLAR",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "11/09/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "GESTIÓN DEL AULA CON EL ENFOQUE EN NEUROEDUCACIÓN Y DISCIPLINA POSITIVA NIVEL II. (ZONA FUENGIROLA)",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "14/10/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "ENRIQUECE TUS PROGRAMACIONES CON RUTINAS DE PENSAMIENTO",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "31/03/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "COMUNICATE CON EL ALUMNADO SORDO: LENGUA DE SIGNOS,ESTRATEGIAS Y HERRAMIENTAS BÁSICAS PARA EL AULA",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "18/11/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "CUADERNO DEL PROFESORADO CON SÉNECA E ISÉNECA (ZONA LAS LAGUNAS)",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "21/02/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "EL TEATRO COMO METODOLOGÍA COMPETENCIAL",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "04/12/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "PENSAMIENTO COMPUTACIONAL Y ROBÓTICA PARA TOD@S",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "23/03/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "EL DEBATE COMO HERRAMIENTA CURRICULAR",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "21/02/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "EXPRESIÓN , COMPRENSIÓN ORAL Y COMPRENSIÓN LECTORA:¿CÓMO SUENA ESA LETRA?",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "12/02/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "METODOLOGÍA MONTESSORI EN EL AULA",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "27/11/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "CUADERNO DEL PROFESORADO CON SÉNECA E ISÉNECA (ZONA COÍN)",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "05/12/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "DISCIPLINA POSITIVA Y NEUROCIENCIA PARA DOCENTES. NIVEL I (ZONA COÍN)",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "26/11/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "CUADERNO DEL PROFESORADO CON SÉNECA E ISÉNECA (OJÉN)",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "17/12/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "GAMIFICACIÓN Y APRENDIZAJE COOPERATIVO",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "02/04/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "PRIMEROS AUXILIOS EN URGENCIAS MÁS FRECUENTES EN RESIDENCIAS ESCOLARES",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "06/03/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "PRIMEROS AUXILIOS EN URGENCIAS MÁS FRECUENTES EN UN CENTRO EDUCATIVO (ZONA CALA DE MIJAS-FUENGIROLA)",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "29/11/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "JORNADAS SOBRE BUENAS PRÁCTICAS EN EL ÁREA DE MÚSICA",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "20/11/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "INTEGRACIÓN DE LAS COMPETENCIAS CLAVE EN EL ÁMBITO EDUCATIVO NIVEL I. CEIP INDIRA GHANDI",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "20/04/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "INTEGRACIÓN DE LAS COMPETENCIAS CLAVE EN EL ÁMBITO EDUCATIVO NIVEL I. CEIP TAMIXA",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "29/04/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "ACTUALIZACIÓN EN BIBLIOWEB 2 PARA RESPONSABLES Y EQUIPOS DE APOYO",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "22/10/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "HERRAMIENTAS DE COACHING Y PNL APLICADAS A LA EDUCACIÓN MUSICAL",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "17/12/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "INTEGRACIÓN DE LAS COMPETENCIAS CLAVE EN EL ÁMBITO EDUCATIVO NIVEL I. CEIP EL OLMO",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "29/04/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "CUADERNO DIGITAL SÉNECA: EVALUACIÓN Y COMPETENCIAS",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "19/09/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "TRANSFORMA-ACCIÓN: PROGRAMA CON-SEGUIMOS",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "23/04/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "NEUROEDUCACIÓN. EMOCIÓN Y APRENDIZAJE.",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "09/11/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "CREATIVAMENTE: VISUAL THINKING",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "19/03/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "COHESIÓN DE EQUIPOS, CONVIVENCIA Y TIC",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "12/03/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "ESTUDIO DE LA IMAGEN PERSONAL EN FORMACIÓN PROFESIONAL",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "01/10/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "WYSIWYG, DISEÑO DE ILUMINACIÓN 3D",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "16/12/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "NUEVAS TENDENCIAS EN ELABORACIÓN DE PLATOS A LA VISTA DEL CLIENTE EN SALA",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "01/10/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "POSTICERIA PARA CARACTERIZACIÓN Y PELUQUERÍA ONCOLÓGICA",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "10/12/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "ILUMINACIÓN EN EL CINE",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "11/12/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "RESOLUCIÓN DE PROBLEMAS MATEMÁTICOS: CREATIVIDAD Y RAZONAMIENTO",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "14/09/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "TALLER DE PROGRAMACIÓN POR COMPETENCIAS PARA SECUNDARIA",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "07/10/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "CURSO DE INICIACIÓN AL USO DE LA PLATAFORMA MOODLE",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "11/02/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "CUIDANDO NUESTRA VOZ: USO SALUDABLE  DE LA VOZ Y PREVENCIÓN DE PATOLOGÍA VOCAL.",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "27/11/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "DISEÑO DE ESTRATEGIAS SENSORIO-MOTRICES EN UN AULA SENSORIAL",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "12/02/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "DISCALCULIA: ¿DIFICULTADES CON LOS NÚMEROS Y EL CÁLCULO?",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "20/02/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "CUIDANDO NUESTRA VOZ: USO SALUDABLE  DE LA VOZ Y PREVENCIÓN DE PATOLOGÍA VOCAL.",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "28/11/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "FOMENTO DE LA COMUNICACIÓN LINGÜÍSTICA EN LOS CENTROS",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "18/09/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "DIRECCIÓN PARA LA MEJORA DE LOS RESULTADOS ESCOLARES",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "23/01/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "JORNADA DE EXPERIENCIAS CON JOLLY PHONICS",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "11/03/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "JORNADAS EDUCATIVAS COMUNIDAD CEIP BLAS INFANTE",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "09/11/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "CONSTRUYENDO LA EDUCACIÓN AFECTIVO-SEXUAL.",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "05/11/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "POR UNA SEXUALIDAD SANA (CONSUMO DE  PORNOGRAFÍA Y CONSECUENCIAS  EN LA ADOLESCENCIA )",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "23/04/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "LOS PROCESOS DE AUTOEVALUACIÓN Y MEJORA COMO BASE DE LA INNOVACIÓN EDUCATIVA",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "04/02/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "LIBERA A LA ESCUELA DEL LABERINTO DEL TIEMPO CON  CREATIVIDAD EN 4D",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "10/03/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "EDUCACIÓN. I CONGRESO INTERNACIONAL DE EDUCACIÓN",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "19/03/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "LA GESTIÓN EMOCIONAL A TRAVÉS DEL MINDFULNESS Y LA COHESIÓN DE GRUPO",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "15/11/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "APRENDIZAJE COOPERATIVO",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "30/01/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "PROMOTING A GROWTH MINDSET THROUGH INNOVATIVE ACTIVITIES FOR CLIL",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "04/03/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "EL NUEVO CURRÍCULO Y LA MEDIACIÓN EN EL AULA",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "27/03/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "FORMACIÓN PARA JEFATURAS DE ESTUDIO",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "28/01/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "MIRA CON ACIERTO LA DISLEXIA: ''EL LENGUAJE TIENE SENTIDO Y SE PUEDE MODELIZAR''",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "12/12/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "ASAMBLEAS ESTRUCTURADAS EN E.I Y E.P PARA TRABAJAR LA ORALIDAD CON TU ALUMNADO",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "06/02/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "USO DEL CUADERNO DEL PROFESORADO",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "16/02/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "KAPICÚA: COMPARTIENDO EXPERIENCIAS MATEMÁTICAS II",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "30/04/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "CÓMO DAR CLASE A QUIENES NO QUIEREN",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "16/04/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "COLABORAR PARA AVANZAR: MEJORA DE LA COORDINACIÓN EN GRUPOS DE TRABAJO",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "07/11/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "JORNADA PROVINCIAL DE PLURILINGÜISMO",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "15/04/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "COMUNIDADES DE APRENDIZAJE. FASE DE SENSIBILIZACIÓN (I)",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "29/02/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "JORNADA PROVINCIAL ETWINNING",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "19/03/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "JORNADA DE FORMACIÓN FP DUAL",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "21/10/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "CURSO DE FORMACIÓN DE GEMELO DIGITAL Y VIRTUAL APLICADO A LA INDUSTRIA 4.0",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "04/12/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "INICIACIÓN A LA PREVENCIÓN DE RIESGOS LABORALES EN LA DOCENCIA",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "19/02/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "JORNADA DE FORMADOR DE FORMADORES EN DEBATE EDUCATIVO",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "07/11/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "EL DEBATE COMO HERRAMIENTA CURRICULAR",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "15/01/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "FORMACIÓN DESTINADA A JUECES Y JUEZAS DE DEBATE",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "15/02/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "DINAMIZACIÓN DEL II TORNEO DE DEBATE EDUCATIVO DE LA PROVINCIA DE MÁLAGA",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "31/03/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "FORMACIÓN DEL PERSONAL FUNCIONARIO EN PRÁCTICAS 2019-20. FASE PRESENCIAL",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "31/03/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "MÓDULO BÁSICO: REDACCIÓN DE PROYECTOS ERASMUS+",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "30/01/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "INICIACIÓN A LA PREVENCIÓN DE RIESGOS LABORALES EN LA DOCENCIA",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "28/02/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "DALE LA VUELTA A TU CLASE (FLIPPED CLASSROOM)",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "11/12/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "DALE LA VUELTA A TU CLASE (FLIPPED CLASSROOM)",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "24/03/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "DISEÑO Y FABRICACIÓN DE ELEMENTOS PARA LA CONSTRUCCIÓN EN MADERA.\tLAS ESCALERAS DE MADERA",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "01/10/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "INSTALACIÓN DE SISTEMAS CON PLACAS DE YESO LAMINADO",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "01/10/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "INTRODUCCIÓN A  SALESFORCE",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "01/10/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "GESTIÓN DE ZONAS VERDES CON GIS",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "15/10/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "PROGRAMACIÓN, EVALUACIÓN Y GESTIÓN DEL AULA",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "21/10/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "TECNOLOGÍAS DE PROPULSIÓN EN VEHÍCULOS HÍBRIDOS Y VEHÍCULOS 100% ELÉCTRICOS",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "01/10/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "INMERSIÓN MOODLE CURSO 2019-20",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "23/10/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "ENCUENTRO DUALIZA MÁLAGA. PRESENTE Y FUTURO DE LA FORMACIÓN PROFESIONAL DUAL EN MÁLAGA",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "29/10/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "INTERNACIONALIZACIÓN EN LA FORMACIÓN PROFESIONAL:  ORGANIZACIÓN, OPORTUNIDADES Y FUTURO",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "05/11/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "NIVEL BÁSICO DE PREVENCIÓN EN CONSTRUCCIÓN",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "10/12/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "XIII JORNADAS ANDALUZAS DE LA ENSEÑANZA DE LA ECONOMÍA EN SECUNDARIA",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "15/02/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "INTERVENCIÓN EN ALUMNADO TEA GRAVEMENTE AFECTADO",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "26/11/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "JORNADA DE LA RED MALAGUEÑA DE MEDIACIÓN",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "07/11/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "PRÁCTICA DEL COMPÁS FLAMENCO: APLICACIÓN PRÁCTICA, DIDÁCTICA Y ARMONÍA",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "08/11/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "GESTIÓN DEL ESTRÉS EN ARE",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "30/10/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "METODOLOGÍA Y PROFUNDIZACIÓN DEL ''CONTACT IMPROVISATION'' COMO METODOLOGÍA DE LA DANZA CONTEMPORÁNEA",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "12/09/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "I CONGRESO NACIONAL SOBRE INVESTIGACIÓN  EN MÚSICA Y ARTES ESCÉNICAS",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "15/03/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "SKETCHUP AVANZADO PARA ESCUELAS DE ARTE",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "11/09/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "IV ENCUENTRO REGIONAL DEL PROFESORADO DE ESPAÑOL PARA EXTRANJEROS DE EEOOII DE ANDALUCÍA",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "21/02/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "REGULACIÓN Y CONTROL EN LA INDUSTRIA FARMACÉUTICA, BIOTECNOLÓGICA Y AFINES",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "12/12/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "JORNADA PRIMER CICLO DE EDUCACIÓN INFANTIL",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "20/03/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "FORMACIÓN PARA ORIENTACIÓN EDUCATIVA NOVEL",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "02/04/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "EDUCACIÓN. I CONGRESO INTERNACIONAL DE EDUCACIÓN",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "19/03/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "I CONGRESO INTERNACIONAL DE PRÁCTICAS INNOVADORAS EN EDUCACIÓN INFANTIL DE 0 A 3 AÑOS",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "25/04/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "SOFT SKILLS: LAS COMPETENCIAS MÁS DEMANDADAS POR LAS EMPRESAS 2020",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "16/04/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "LAS PRÁCTICAS RECOMENDADAS EN ATENCIÓN TEMPRANA",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "15/04/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "FORMACIÓN PARA EL USO DE LAS NUEVAS HOJAS DE OBSERVACIÓN DE LAS PRUEBAS ESPECÍFICAS TERMINALES DE CERTIFICACIÓN",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "24/01/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "LA SALUD ESTÁ EN TU MANO",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "29/04/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "SIMULADORES PARA EL DIAGNÓSTICO POR IMAGEN DE LA FAMILIA DE SANIDAD",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "04/12/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "USO DE LA PLATAFORMA MOODLE CENTROS",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "23/04/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "FORMACIÓN PARA LA MENTORIZACIÓN DE FUNCIONARIOS EN PRÁCTICAS",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "26/11/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "FORMACIÓN PERSONAL FUNCIONARIO EN PRÁCTICAS PRIMARIA 2019-20. FASE ON-LINE",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "31/03/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "JORNADAS INICIALES ERASMUS+",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "02/12/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "JORNADA TRINITY: EL PORTFOLIO COMO HERRAMIENTA PARA LA ENSEÑANZA DE LA EXPRESIÓN ESCRITA",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "14/11/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "JORNADA CAMBRIDGE: PLANIFICACIÓN DE UNA CLASE AICLE",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "24/02/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "ENCUENTRO CENTROS LABEL FRANCÉDUCATION 2020",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "15/04/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "INTRODUCCIÓN A LAS COMUNIDADES DE APRENDIZAJE",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "11/12/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "INNICIA: HERRAMIENTAS PARA EL EMPRENDIMIENTO EDUCATIVO",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "03/04/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "PROYECTO EDUCAVES",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "10/03/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "EDUCACIÓN. I CONGRESO INTERNACIONAL DE EDUCACIÓN",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "19/03/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "EL APRENDIZAJE COOPERATIVO COMO ESTRATEGIA DE GESTIÓN DEL AULA",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "11/12/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "SIMULACIÓN Y VIRTUALIZACION DE APARATOS KNX Y USO DE LA HERRAMIENTA ETS5 (II)",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "11/09/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "CODIFICACIÓN DE DIAGNOSTICOS Y PROCEDIMIENTOS CON CIE 10 ES",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "31/10/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "EVALUACIÓN Y PROGRAMACIÓN EN F.P. LOE",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "12/11/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "INSTALACIONES FRIGORÍFICAS Y CLIMATIZACIÓN",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "15/12/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "INICIACIÓN A PROYECTOS ERASMUS + E INTERNACIONALIZACIÓN DE LA FORMACIÓN PROFESIONAL.",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "03/12/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "GESTIÓN ADMINISTRATIVA Y ECONÓMICA DE PROYECTOS ERASMUS + EN FORMACIÓN PROFESIONAL",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "05/03/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "XX JORNADAS DE INNOVACIÓN PEDAGÓGICA DE ANTEQUERA",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "14/03/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "JORNADAS DE BUENAS PRÁCTICAS SOBRE GAMIFICACIÓN",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "11/01/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "LA LABOR DE LA INSPECCIÓN DE EDUCACIÓN EN LA EVALUACIÓN Y SEGUIMIENTO DE CENTROS DOCENTES, SERVICIOS, PROGRAMAS Y ACTIVIDADES DEL SISTEMA EDUCATIVO",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "16/01/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "EDUCACIÓN. I CONGRESO INTERNACIONAL DE EDUCACIÓN",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "19/03/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "JORNADA DE FORMACIÓN SÉNECA EXÁMENES ONLINE",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "19/11/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "CURSO  ON LINE DE PRÁCTICA EN SIMULADORES DE IMAGEN PARA FAMILIA PROFESIONAL DE SANIDAD",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "20/12/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "CURSO EN ROBOTSTUDIO ANIMATION",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "22/11/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "IV ENCUENTRO DE CENTROS DE CALIDAD",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "28/11/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "JORNADAS REGIONALES DE ASESORÍAS DE FORMACIÓN PROFESIONAL",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "13/12/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "EL MCERL EN LA PROGRAMACIÓN DE AULA DE LAS ÁREAS LINGÜÍSTICAS",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "11/12/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "CONTROL DE LA ANSIEDAD ESCÉNICA DEL ALUMNADO. MOTIVACIÓN EN EL AULA",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "27/03/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "COMUNIDADES DE APRENDIZAJE. FASE DE SENSIBILIZACIÓN  (C) 2019-2020",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "15/02/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "REPARACIÓN Y SEGURIDAD DE DISPOSITIVOS MÓVILES",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "22/04/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "VIRTUALIZACIÓN DE SERVIDORES CON PROXMOX",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "27/04/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "EDUCACIÓN. I CONGRESO INTERNACIONAL DE EDUCACIÓN",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "19/03/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "GEOGEBRA COMO HERRAMIENTA DIDÁCTICA EN EL AULA",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "11/12/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "VIII ENCUENTRO EN ANDALUCÍA. GEOGEBRA EN EL AULA",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "21/03/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "EDICIÓN DE PARTITURAS CON MUSESCORE",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "11/12/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "EDICIÓN DE PARTITURAS CON MUSESCORE",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "31/03/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "LAS MATEMÁTICAS QUE NOS RODEAN",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "11/12/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "AULA DE CINE. ¡LLEVA EL CINE A LAS AULAS!",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "10/03/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "CURSO  ON LINE DE PRÁCTICA EN SIMULADORES DE IMAGEN PARA FAMILIA PROFESIONAL DE SANIDAD",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "20/12/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "BLOG AVERROES EN EL AULA",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "11/12/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "PROGRAMACIÓN DE VIDEOJUEGOS CON SCRATCH COMO HERRAMIENTA EDUCATIVA",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "11/12/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "PROGRAMACIÓN DE VIDEOJUEGOS CON SCRATCH COMO HERRAMIENTA EDUCATIVA",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "31/03/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "ORGANIZACIÓN DE EVENTOS Y PROTOCOLO",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "28/11/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "CONGRESO PARA LA INTERNACIONALIZACIÓN DE LA FP EN ANDALUCÍA",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "30/11/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "LA BIBLIOTECA ESCOLAR COMO CENTRO DE RECURSOS PARA LA ENSEÑANZA Y EL APRENDIZAJE. CURSO 1",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "24/03/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "PROGRAMAS PARA LA EDUCACIÓN EN EL USO DE LA INFORMACIÓN Y DE LOS RECURSOS DE APRENDIZAJE ARTICULADOS POR LA BIBLIOTECA ESCOLAR. CURSO 2",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "24/03/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "SELECCIÓN DE RECURSOS DIGITALES Y UTILIZACIÓN DE HERRAMIENTAS DEL LA WEB SOCIAL PARA LA BIBLIOTECA ESCOLAR. CURSO 3",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "24/03/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "BIBLIOWEB",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "24/03/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "XII ENCUENTRO ANDALUZ DE BLOGS EDUCATIVOS (EABE20)",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "28/03/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "VIII JORNADAS REGIONALES DE LA RED ANDALUZA DE BIBLIOTECAS ESCOLARES",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "05/02/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "XIII JORNADAS. LA DIRECCIÓN ESCOLAR: PREPÁRATE PARA SER, NO PARA PARECER",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "13/03/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "CREACIÓN DE MATERIALES EDUCATIVOS CON EXELEARNING Y AGREGA",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "18/12/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "INNOVATIVE TEACHING PRACTICES SUPPORTED BY THE FOCUSED USE OF ICT TOOLS IN THE LANGUAGE CLASSROOM",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "11/12/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "CREACIÓN DE MATERIALES EDUCATIVOS CON EXELEARNING Y AGREGA",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "31/03/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "INNOVATIVE TEACHING PRACTICES SUPPORTED BY THE FOCUSED USE OF ICT TOOLS IN THE LANGUAGE CLASSROOM",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "31/03/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "MOBILE LEARNING Y REALIDAD AUMENTADA",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "11/12/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "LA PRÁCTICA DE LA ESCRITURA CREATIVA EN LAS AULAS: NUEVAS POSIBILIDADES",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "11/12/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "PROYECTOS STEAM BASADOS EN PENSAMIENTO COMPUTACIONAL Y CULTURA MAKER",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "11/12/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "DISEÑO DE TAREAS COMPETENCIALES POR ESPECIALIDADES EN SECUNDARIA",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "11/12/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "DISEÑO DE TAREAS COMPETENCIALES POR ESPECIALIDADES EN SECUNDARIA",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "24/03/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "XV JORNADAS DE ESCUELAS DE ARTE DE ANDALUCIA",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "28/03/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "JORNADA DE TRABAJO DE COORDINADORES ERASMUS+ EN ESCUELAS DE ARTE DE ANDALUCIA",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "27/03/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "INTRODUCCIÓN A LA TUTORIZACIÓN Y EVALUACIÓN EN LA MODALIDAD SEMIPRESENCIAL CON MOODLE",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "17/12/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "EVALUACION FORMATIVA AVANZADA EN EL AULA VIRTUAL MOODLE PARA EDUCACIÓN PERMANENTE SEMIPRESENCIAL",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "17/12/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "JORNADA DE LA INSPECCIÓN DE EDUCACIÓN DE ANDALUCÍA : HACIA LA DIGITALIZACIÓN DESDE EL PLAN DE INSPECCIÓN",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "05/09/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "COMUNIDAD DE LECTORES Y ESCRITORES EN EL ÁMBITO ESCOLAR",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "11/12/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "ESTRATEGIAS PARA LA ATENCIÓN A LA DIVERSIDAD DEL ALUMNADO EN EL AULA ORDINARIA",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "11/12/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "I JORNADAS DE INNOVACIÓN EN VITIVINICULTURA ANDALUZA",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "30/11/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "FERIA DE LA IMAGEN PERSONAL",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "21/02/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "PROGRAMA DE PREVENCIÓN DEL ACOSO ESCOLAR Y CIBERACOSO. FORMACIÓN DE FORMADORES",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "02/12/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "VIII ENCUENTRO  DE LA RED ANDALUZA DE ECOESCUELAS",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "23/11/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "LA TUTORIZACIÓN EN EL AULA VIRTUAL DE FORMACIÓN DEL PROFESORADO",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "24/02/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "TUTORIZACIÓN Y DOCENCIA EN FORMACIÓN PROFESIONAL A DISTANCIA",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "18/10/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "TUTORIZACIÓN Y DOCENCIA EN FORMACIÓN PROFESIONAL SEMIPRESENCIAL",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "18/10/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "JORNADAS REGIONALES DE FORMACIÓN Y ENCUENTRO DE LAS ASESORÍAS. ZONA ORIENTAL",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "01/10/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "JORNADA FORMACIÓN EMBAJADORES ESERO",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "16/11/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "XII JORNADAS DEL CONSEJO ESCOLAR DE ANDALUCÍA",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "30/11/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "ABP. APRENDIZAJE BASADO EN PROYECTOS (INFANTIL Y PRIMARIA)",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "11/12/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "ABP. APRENDIZAJE BASADO EN PROYECTOS (INFANTIL Y PRIMARIA)",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "24/03/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "XX JORNADAS REGIONALES DE DIRECTORES/AS DE INSTITUTO. LA FUNCIÓN DIRECTIVA: PRÁCTICA, ACCIONES Y OBLIGACIONES",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "06/03/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "LA ENSEÑANZA BILINGÜE: AICLE I",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "11/12/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "ATENCIÓN A LA DIVERSIDAD EN APRENDIZAJE DE IDIOMAS",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "11/12/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "LEER, ESCRIBIR, EXPRESARSE... EN TODAS LAS ÁREAS DE SECUNDARIA",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "11/12/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "LEER, ESCRIBIR, EXPRESARSE... EN TODAS LAS ÁREAS DE PRIMARIA",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "11/12/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "PROYECTO RECAPACICLA",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "16/03/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "PROYECTO SEMILLA",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "01/04/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "FP: TALLER INICIACION AL MOULAGE",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "01/12/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "FP: ILUMINACIÓN - WYSIWYG",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "11/12/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "JORNADA PARA EL PROFESORADO DE PORTUGUÉS LENGUA EXTRANJERA",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "29/11/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "CURSO PARA EL PROFESORADO DE PORTUGUÉS LENGUA EXTRANJERA",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "30/04/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "NUEVAS TENDENCIAS METODOLÓGICAS EN EDUCACIÓN FÍSICA",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "11/12/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "METODOLOGÍA DEL TRABAJO INVESTIGADOR EN EL CENTRO EDUCATIVO",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "16/12/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "PROYECTO TERRAL",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "24/03/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "DETECCIÓN, IDENTIFICACIÓN Y ORIENTACIÓN DIRIGIDA AL ALUMNADO CON NECESIDADES ESPECÍFICAS DE APOYO EDUCATIVO",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "11/12/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "JORNADA REGIONAL ERASMUS+ PARA FORMACIÓN PROFESIONAL",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "28/11/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "ÓRBITAS",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "20/03/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "NUEVAS TECNOLOGÍAS APLICADAS A LA ELABORACIÓN Y ACTUALIZACIÓN DE MATERIALES PARA FORMACIÓN PROFESIONAL A DISTANCIA Y SEMIPRESENCIAL",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "31/03/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "EL MCERL EN LA PROGRAMACIÓN DE AULA DE LAS ÁREAS NO LINGÜÍSTICAS",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "18/12/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "BLOG AVERROES EN EL AULA",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "31/03/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "CREACIÓN DE MATERIALES REALISTAS PBR PARA VIDEOJUEGOS O CINE CON SUBSTANCE PAINTER.",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "17/12/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "LA EDUCACIÓN INTERCULTURAL DE LA TEORÍA A LA PRÁCTICA",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "11/12/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "PROPIEDAD INTELECTUAL",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "20/11/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "EDICIÓN DE AUDIO: ESTRATEGIAS METODOLÓGICAS PARA EL ENTORNO EDUCATIVO Y EL AULA DE MÚSICA",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "11/12/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "EDICIÓN DE AUDIO: ESTRATEGIAS METODOLÓGICAS PARA EL ENTORNO EDUCATIVO Y EL AULA DE MÚSICA",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "31/03/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "ACTUALIZACIÓN EN AUDIOLOGÍA PROTÉSICA",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "02/12/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "TÉCNICAS EN EMERGENCIAS SANITARIAS",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "19/12/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "CARACTERIZACIÓN: NUEVAS TECNOLOGÍAS Y EFECTOS ESPECIALES DE MAQUILLAJE.",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "14/12/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "ACTUALIZACIÓN EN AUDIOLOGÍA PROTÉSICA (II)",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "20/02/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "XIV  ENCUENTRO PROFESORADO DE ENSEÑANZA RELIGIOSA EVANGÉLICA''CAMINO DE EMAÚS''",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "05/12/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "GAMIFICACIÓN EN EL AULA DE RELIGIÓN EVANGÉLICA",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "11/03/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "BIOÉTICA. ACTUALIZACIÓN CURRICULAR",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "15/02/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "JORNADA FORMACIÓN DE ESCUELA CULTURA DE PAZ, EN LOS VALORES DEL DEPORTE, LA MÚSICA Y EL VOLUNTARIADO",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "13/03/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "I CONGRESO ANDALUZ DE COEDUCACIÓN: EDUCACIÓN Y FEMINISMO",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "06/03/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "JORNADAS ANDALUZAS DE FORMACIÓN PROFESIONAL DE LAS FAMILIAS PROFESIONALES DE QUÍMICA Y MARÍTIMO-PESQUERA",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "27/09/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "JORNADA DE CONTRASTE SOBRE EL ESTADO DE LA ORIENTACIÓN PROFESIONAL EN ANDALUCÍA",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "14/11/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "I ENCUENTRO DE ASESORÍAS DE REFERENCIA EN COMUNIDADES DE APRENDIZAJE EN ANDALUCÍA",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "18/03/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "JORNADAS REGIONALES DE FORMACIÓN Y ENCUENTRO DE LAS ASESORÍAS. ZONA OCCIDENTAL",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "03/10/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "PRUEBAS FUNCIONARIOS PRACTICAS 2019",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "10/11/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "PEDAGOGÍA TEATRAL PARA LA ENSEÑANZA  DEL ALEMAN",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "07/03/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "PROGRAMACIÓN DE SIMULACIONES EDUCATIVAS CON SNAP",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "11/12/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "BACHILLERATO INTERNACIONAL (PERSONAL DE DIRECCIÓN)",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "13/12/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "BACHILLERATO INTERNACIONAL (COORDINACIÓN)",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "13/12/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "BACHILLERATO INTERNACIONAL - PRIMERA EDICIÓN",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "25/01/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "BACHILLERATO INTERNACIONAL - SEGUNDA EDICION",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "01/02/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "BACHILLERATO INTERNACIONAL - TERCERA EDICIÓN",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "08/02/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "BACHILLERATO INTERNACIONAL - CUARTA EDICIÓN",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "15/02/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "BACHILLERATO INTERNACIONAL - QUINTA EDICIÓN",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "20/01/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "JORNADAS ANDALUZAS DE FORMACIÓN PROFESIONAL DE LA FAMILIA PROFESIONAL DE MADERA MUEBLE Y CORCHO",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "27/09/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "TUTORIZACIÓN Y DOCENCIA TELEMÁTICA EN FORMACIÓN PROFESIONAL",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "20/04/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "LO HICE Y APRENDÍ: CÓMO USAR MOODLE PARA EL TRABAJO DIARIO EN EL AULA",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "11/12/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "LO HICE Y APRENDÍ: CÓMO USAR MOODLE PARA EL TRABAJO DIARIO EN EL AULA",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "24/03/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "JORNADAS SOBRE SELECCIÓN Y EVALUACIÓN DE LA DIRECCIÓN ESCOLAR",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "27/11/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "JORNADAS ANDALUZAS DE FORMACIÓN PROFESIONAL DE LAS FAMILIAS PROFESIONALES DE ARTES GRÁFICAS Y TEXTIL CONFECCIÓN Y PIEL",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "27/09/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "PENSAMIENTO COMPUTACIONAL SIN DISPOSITIVOS EN INFANTIL Y PRIMARIA",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "11/12/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "PENSAMIENTO COMPUTACIONAL SIN DISPOSITIVOS EN INFANTIL Y PRIMARIA",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "24/03/2020",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "JORNADAS ANDALUZAS DE FORMACIÓN PROFESIONAL DE LAS FAMILIAS PROFESIONALES DE  IMAGEN Y SONIDO Y  VIDRIO Y CERÁMICA",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "27/09/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "ATENCIÓN AL ALUMNADO CON NEAE EN CENTROS BILINGÚES",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "11/12/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "LA ENSEÑANZA BILINGÜE II: PROFUNDIZACIÓN EN LA METODOLOGÍA AICLE",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "18/12/2019",
+  "dirigidoA" : ""
+}, {
+  "centro" : "",
+  "codigo" : "",
+  "titulo" : "LA ENSEÑANZA BILINGÜE II: PROFUNDIZACIÓN EN LA METODOLOGÍA AICLE",
+  "modalidad" : "",
+  "estado" : "",
+  "fechaIni" : null,
+  "fechFin" : "31/03/2020",
+  "dirigidoA" : ""
+} ]

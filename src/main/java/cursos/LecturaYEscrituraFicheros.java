@@ -5,20 +5,19 @@
  */
 package cursos;
 
-import com.fasterxml.jackson.core.PrettyPrinter;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.fasterxml.jackson.databind.SerializationFeature;
 import java.io.BufferedWriter;
 import java.io.File;
-import java.io.FileInputStream;
 import java.io.FileNotFoundException;
+import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
-import java.io.ObjectInputStream;
 import java.time.LocalDate;
 import java.time.Month;
 import java.time.format.DateTimeFormatter;
 import java.util.ArrayList;
+import java.util.List;
 import java.util.Scanner;
 
 /**
@@ -31,9 +30,8 @@ public class LecturaYEscrituraFicheros {
     // y carga los objetos Persona en una lista, que devuelve
     public static ArrayList<Cursos> leerCursos(String idFichero) throws IOException {
 
-        ArrayList<Cursos> cursos = new ArrayList<>();
         String[] tokens;
-
+        ArrayList<Cursos> cursos = new ArrayList<>();
         String linea;
 
         System.out.println("Leyendo el fichero: " + idFichero);
@@ -81,60 +79,67 @@ public class LecturaYEscrituraFicheros {
         return cursos;
     }
 
-    private static int insertCurso(ArrayList<Cursos> lista) {
-        int contador = 0;
+    //Hace que se inserte elemento por elemento en el txt
+    public static void insertCurso(Cursos curso) {
 
-        if (!lista.isEmpty()) {
-            try ( BufferedWriter flujo = new BufferedWriter(new FileWriter("CursosAcabados.txt", true))) {
-                for (Cursos curso : lista) {
+        try ( BufferedWriter flujo = new BufferedWriter(new FileWriter("cursosAcabados.txt", true))) {
 
-                    flujo.write(curso.getTitulo() + "\t" + curso.getFechFin());
-                    flujo.newLine();
-                    contador++;
+            flujo.write(curso.stringTxt());
+            flujo.newLine();
+            flujo.flush();
 
-                }
-
-                flujo.flush();
-            } catch (IOException e) {
-                return contador;
-            }
+        } catch (IOException e) {
+            System.out.println("No se ha podido introducir");
         }
-        return contador;
-    }
-
-    public static ArrayList<Cursos> listaCursosAcabados(ArrayList<Cursos> listaCursos) {
-        ArrayList<Cursos> listaAcabada = new ArrayList();
-        Cursos prueba = new Cursos();
-
-        for (Cursos objetoCurso : listaCursos) {
-            if (objetoCurso.getFechFin().isBefore(LocalDate.of(2020, Month.APRIL, 1))) {
-
-                prueba.setTitulo(objetoCurso.getTitulo());
-                prueba.setFechFin(objetoCurso.getFechFin());
-                listaAcabada.add(prueba);
-            }
-        }
-        return listaAcabada;
-
-    }
-
-    public static void escribirTxt(ArrayList<Cursos> listaCursos) {
-        ArrayList<Cursos> listaAcabada = new ArrayList();
-        Cursos prueba = new Cursos();
-
-        for (Cursos objetoCurso : listaCursos) {
-            if (objetoCurso.getFechFin().isBefore(LocalDate.of(2020, Month.APRIL, 1))) {
-
-                prueba.setTitulo(objetoCurso.getTitulo());
-                prueba.setFechFin(objetoCurso.getFechFin());
-                listaAcabada.add(prueba);
-            }
-        }
-        insertCurso(listaAcabada);
 
     }
 
     //LEER TXT Y METERLO AQUÍ Y YA MATO 2 PAJAROS DE UN TIRO
+    public static List<Cursos> leerTxt() {
+
+        List<Cursos> lista = new ArrayList<>();
+        String linea;
+        String[] tokens;
+
+        try ( Scanner datosFichero = new Scanner(new FileReader("cursosAcabados.txt"))) {
+
+            // Mientras haya líneas por leer
+            while (datosFichero.hasNextLine()) {
+
+                linea = datosFichero.nextLine(); //Se lee la línea
+                tokens = linea.split("\t ");
+
+                Cursos objetoCursos = new Cursos();
+
+                //Comenzamos a introducir los datos en los atributos del objeto
+                objetoCursos.setTitulo(tokens[0]);
+                objetoCursos.setFechFin(LocalDate.parse(tokens[1]));
+                if (objetoCursos.getCentro() == null
+                        || objetoCursos.getCodigo() == null
+                        || objetoCursos.getDirigidoA() == null
+                        || objetoCursos.getEstado() == null
+                        || objetoCursos.getFechaIni() == null
+                        || objetoCursos.getModalidad() == null) {
+                    objetoCursos.setCentro("");
+                    objetoCursos.setCodigo("");
+                    objetoCursos.setDirigidoA("");
+                    objetoCursos.setEstado("");
+                    objetoCursos.setFechaIni(null);
+                    objetoCursos.setModalidad("");
+
+                }
+
+                lista.add(objetoCursos);
+
+            }
+
+            return lista;
+
+        } catch (FileNotFoundException e) {
+            return lista;
+        }
+    }
+
     public static void escribirJson(ArrayList<Cursos> listaCursos) throws IOException {
 
         ObjectMapper mapeador = new ObjectMapper();
@@ -142,7 +147,19 @@ public class LecturaYEscrituraFicheros {
         mapeador.configure(SerializationFeature.INDENT_OUTPUT, true);
 
         // Escribe en un fichero JSON 
-        mapeador.writeValue(new File("CursosAcabados.json"), "cursosAcabados.txt");
+        mapeador.writeValue(new File("CursosAcabados.json"), leerTxt());
+
+    }
+
+    public static void leerJSON(ArrayList<Cursos> lista) throws IOException {
+
+        ObjectMapper mapeador = new ObjectMapper();
+        mapeador.disable(SerializationFeature.WRITE_DATES_AS_TIMESTAMPS);
+        lista = mapeador.readValue(new File("CursosAcabados.json"),
+                mapeador.getTypeFactory().constructCollectionType(ArrayList.class, Cursos.class));
+        for (Cursos cursosVO : lista) {
+            System.out.println(cursosVO);
+        }
 
     }
 

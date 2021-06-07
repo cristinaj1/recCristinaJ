@@ -5,6 +5,11 @@
  */
 package cursos;
 
+import com.fasterxml.jackson.annotation.JsonFormat;
+import com.fasterxml.jackson.databind.annotation.JsonDeserialize;
+import com.fasterxml.jackson.databind.annotation.JsonSerialize;
+import com.fasterxml.jackson.datatype.jsr310.deser.LocalDateDeserializer;
+import com.fasterxml.jackson.datatype.jsr310.ser.LocalDateSerializer;
 import java.time.LocalDate;
 
 /**
@@ -18,7 +23,13 @@ public class Cursos {
     private String titulo;
     private String modalidad;
     private String estado;
+    @JsonDeserialize(using = LocalDateDeserializer.class)
+    @JsonSerialize(using = LocalDateSerializer.class)
+    @JsonFormat(shape = JsonFormat.Shape.STRING, pattern = "dd/MM/yyyy")
     private LocalDate fechaIni;
+    @JsonDeserialize(using = LocalDateDeserializer.class)
+    @JsonSerialize(using = LocalDateSerializer.class)
+    @JsonFormat(shape = JsonFormat.Shape.STRING, pattern = "dd/MM/yyyy")
     private LocalDate fechFin;
     private String dirigidoA;
 
@@ -34,6 +45,8 @@ public class Cursos {
     }
 
     public Cursos() {
+        this.titulo = titulo;
+        this.fechFin = fechFin;
     }
 
     public String getCentro() {
@@ -102,11 +115,11 @@ public class Cursos {
 
     @Override
     public String toString() {
-        return centro + "; " + codigo + "; " + titulo + "; " + modalidad + "; " + estado + "; " + fechaIni + "; " + fechFin + "; " + dirigidoA + '}';
+        return centro + ";" + codigo + ";" + titulo + ";" + modalidad + ";" + estado + ";" + fechaIni + ";" + fechFin + ";" + dirigidoA + '}';
     }
 
     public String stringTxt() {
-        return  titulo + "\t " + fechFin;
+        return titulo + "\t " + fechFin;
     }
 
 }
