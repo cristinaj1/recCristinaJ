@@ -12,6 +12,7 @@ import java.time.LocalDate;
  * @author cristina
  */
 public class Cursos {
+
     private String centro;
     private String codigo;
     private String titulo;
@@ -30,6 +31,9 @@ public class Cursos {
         this.fechaIni = fechaIni;
         this.fechFin = fechFin;
         this.dirigidoA = dirigidoA;
+    }
+
+    public Cursos() {
     }
 
     public String getCentro() {
@@ -96,9 +100,13 @@ public class Cursos {
         this.dirigidoA = dirigidoA;
     }
 
-    
+    @Override
+    public String toString() {
+        return centro + "; " + codigo + "; " + titulo + "; " + modalidad + "; " + estado + "; " + fechaIni + "; " + fechFin + "; " + dirigidoA + '}';
+    }
 
-    
-    
-    
+    public String stringTxt() {
+        return  titulo + "\t " + fechFin;
+    }
+
 }

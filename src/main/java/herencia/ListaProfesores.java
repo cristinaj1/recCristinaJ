@@ -29,7 +29,10 @@ public class ListaProfesores {
         for (Profesor prof : listaProfesores) {
 
             System.out.println("Introduzca el sueldo base del profesor: " + prof.getNombre());
+            
             double sueldoBase = teclado.nextDouble();
+            
+            //MEJORARLO QUITANDO IF Y ADAPTANDOLO
             if (prof instanceof ProfesorInterino) {
                 double totalInte = prof.importeNomina(sueldoBase);
                 totalInterino += totalInte;

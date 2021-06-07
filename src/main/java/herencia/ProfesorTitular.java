@@ -46,20 +46,20 @@ public class ProfesorTitular extends Profesor implements Comparable<ProfesorTitu
     //Compare to para ordenar objetos por fecha de toma de posesión
     @Override
     public int compareTo(ProfesorTitular t) {
-        //ORDENA DE MÁS ANTIGUO A MÁS NUEVO
-        // caso a = b
-        int resultadoComparacion = 0;
-        // Caso a > b
-        if (this.fechaTomaPosesion.isAfter(t.fechaTomaPosesion)) {
-            //Si es después sale 1
-            resultadoComparacion = 1;
-        } else {
-            // Caso a < b
-            //Si es antes sale -1
-            resultadoComparacion = -1;
-        }
-
-        return resultadoComparacion;
+//        //ORDENA DE MÁS ANTIGUO A MÁS NUEVO
+//        // caso a = b
+//        int resultadoComparacion = 0;
+//        // Caso a > b
+//        if (this.fechaTomaPosesion.isAfter(t.fechaTomaPosesion)) {
+//            //Si es después sale 1
+//            resultadoComparacion = 1;
+//        } else {
+//            // Caso a < b
+//            //Si es antes sale -1
+//            resultadoComparacion = -1;
+//        }
+        return this.fechaTomaPosesion.compareTo(t.getFechaTomaPosesion());
+        //return resultadoComparacion;
 
     }
 

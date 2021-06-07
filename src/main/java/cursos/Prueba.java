@@ -5,6 +5,7 @@
  */
 package cursos;
 
+import static cursos.LecturaYEscrituraFicheros.escribirTxt;
 import static cursos.LecturaYEscrituraFicheros.leerCursos;
 import java.io.IOException;
 import java.util.ArrayList;
@@ -16,7 +17,12 @@ import java.util.ArrayList;
 public class Prueba {
 
     public static void main(String[] args) throws IOException {
-        ArrayList <Cursos> cursos = leerCursos("RegActForCep.csv");
+        ArrayList<Cursos> cursos = leerCursos("RegActForCep.csv");
+        
+        System.out.println("Lista ya ordenada directamente");
         cursos.forEach(System.out::println);
+
+        System.out.println("Se ha hecho el fichero txt");
+        escribirTxt(cursos);
     }
 }

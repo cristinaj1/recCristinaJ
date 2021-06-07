@@ -61,20 +61,22 @@ public class ProfesorInterino extends Profesor {
 
     //Sirve para ordenar los profesores interinos por fecha de inicio de la interinidad
     public int compareTo(ProfesorInterino t) {
-        //ORDENA DE MÁS ANTIGUO A MÁS NUEVO
-        int resultadoComparacion = 0;
-        // Caso a > b
-        if (this.fechaIni.isAfter(t.fechaIni)) {
-            //Si es después sale 1
-            resultadoComparacion = 1;
-        } else {
-            // Caso a < b
-            //Si es antes sale -1
-            resultadoComparacion = -1;
-        }
+//        //ORDENA DE MÁS ANTIGUO A MÁS NUEVO
+//        int resultadoComparacion = 0;
+//        // Caso a > b
+//        if (this.fechaIni.isAfter(t.fechaIni)) {
+//            //Si es después sale 1
+//            resultadoComparacion = 1;
+//        } else {
+//            // Caso a < b
+//            //Si es antes sale -1
+//            resultadoComparacion = -1;
+//        }
 
-        return resultadoComparacion;
-
+        // return resultadoComparacion;
+        return this.fechaIni.compareTo(t.getFechaIni());
     }
 
 }
+
+
