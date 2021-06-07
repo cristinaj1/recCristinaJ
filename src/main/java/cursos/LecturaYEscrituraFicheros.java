@@ -94,7 +94,7 @@ public class LecturaYEscrituraFicheros {
 
     }
 
-    //LEER TXT Y METERLO AQUÍ Y YA MATO 2 PAJAROS DE UN TIRO
+    //Lee el archivo txt
     public static List<Cursos> leerTxt() {
 
         List<Cursos> lista = new ArrayList<>();
@@ -140,6 +140,7 @@ public class LecturaYEscrituraFicheros {
         }
     }
 
+    //Escribe el fichero JSON a partir de un arrayList
     public static void escribirJson(ArrayList<Cursos> listaCursos) throws IOException {
 
         ObjectMapper mapeador = new ObjectMapper();
@@ -151,6 +152,7 @@ public class LecturaYEscrituraFicheros {
 
     }
 
+    //Lee el JSON creado anteriormente
     public static void leerJSON(ArrayList<Cursos> lista) throws IOException {
 
         ObjectMapper mapeador = new ObjectMapper();
