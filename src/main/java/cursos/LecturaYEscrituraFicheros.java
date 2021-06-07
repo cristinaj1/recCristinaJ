@@ -5,6 +5,7 @@
  */
 package cursos;
 
+import com.fasterxml.jackson.core.PrettyPrinter;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.fasterxml.jackson.databind.SerializationFeature;
 import java.io.BufferedWriter;
@@ -133,14 +134,16 @@ public class LecturaYEscrituraFicheros {
 
     }
 
+    //LEER TXT Y METERLO AQUÍ Y YA MATO 2 PAJAROS DE UN TIRO
     public static void escribirJson(ArrayList<Cursos> listaCursos) throws IOException {
 
         ObjectMapper mapeador = new ObjectMapper();
 
         mapeador.configure(SerializationFeature.INDENT_OUTPUT, true);
 
-        // Escribe en un fichero JSON el catálogo de muebles
-        mapeador.writeValue(new File("CursosAcabados.json"), listaCursosAcabados(listaCursos));
+        // Escribe en un fichero JSON 
+        mapeador.writeValue(new File("CursosAcabados.json"), "cursosAcabados.txt");
+
     }
 
 }

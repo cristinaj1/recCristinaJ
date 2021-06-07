@@ -5,6 +5,7 @@
  */
 package cursos;
 
+import static cursos.LecturaYEscrituraFicheros.escribirJson;
 import static cursos.LecturaYEscrituraFicheros.escribirTxt;
 import static cursos.LecturaYEscrituraFicheros.leerCursos;
 import java.io.IOException;
@@ -24,5 +25,8 @@ public class Prueba {
 
         System.out.println("Se ha hecho el fichero txt");
         escribirTxt(cursos);
+        
+        System.out.println("Se ha escrito el JSON");
+        escribirJson(cursos);
     }
 }
