@@ -11,12 +11,13 @@ import com.fasterxml.jackson.databind.annotation.JsonSerialize;
 import com.fasterxml.jackson.datatype.jsr310.deser.LocalDateDeserializer;
 import com.fasterxml.jackson.datatype.jsr310.ser.LocalDateSerializer;
 import java.time.LocalDate;
+import java.util.Comparator;
 
 /**
  *
  * @author cristina
  */
-public class Cursos {
+public class Cursos implements Comparable<Cursos> {
 
     private String centro;
     private String codigo;
@@ -120,6 +121,17 @@ public class Cursos {
 
     public String stringTxt() {
         return titulo + "\t " + fechFin;
+    }
+
+    @Override
+    public int compareTo(Cursos cursos) {
+//        int resultado = this.getFechaIni().compareTo(cursos.getFechaIni());
+//        if (resultado == 1) {
+//            return resultado;
+//        } else {
+//            return this.getTitulo().compareTo(cursos.getTitulo());
+//        }
+return Comparator.comparing(this::getFechaIni());
     }
 
 }

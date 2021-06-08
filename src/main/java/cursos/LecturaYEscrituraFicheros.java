@@ -73,9 +73,9 @@ public class LecturaYEscrituraFicheros {
         } catch (FileNotFoundException e) {
             System.out.println(e.getMessage());
         }
+        //Usar comparator y comparing (modificarlos)
         cursos.stream()
-                .sorted((c1, c2) -> c1.getFechaIni().compareTo(c2.getFechaIni()))
-                .sorted((d1, d2) -> d1.getTitulo().compareTo(d2.getTitulo()));
+                .sorted((c1, c2) -> c1.getFechaIni().compareTo(c2.getFechaIni()));
         return cursos;
     }
 
