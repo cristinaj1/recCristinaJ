@@ -14,9 +14,9 @@ import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.time.LocalDate;
-import java.time.Month;
 import java.time.format.DateTimeFormatter;
 import java.util.ArrayList;
+import java.util.Comparator;
 import java.util.List;
 import java.util.Scanner;
 
@@ -73,9 +73,8 @@ public class LecturaYEscrituraFicheros {
         } catch (FileNotFoundException e) {
             System.out.println(e.getMessage());
         }
-        //Usar comparator y comparing (modificarlos)
-        cursos.stream()
-                .sorted((c1, c2) -> c1.getFechaIni().compareTo(c2.getFechaIni()));
+        Comparator.comparing((Cursos p) -> p.getFechaIni())
+                .thenComparing((Cursos p) -> p.getTitulo());
         return cursos;
     }
 

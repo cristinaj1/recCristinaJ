@@ -17,7 +17,7 @@ import java.util.Comparator;
  *
  * @author cristina
  */
-public class Cursos implements Comparable<Cursos> {
+public class Cursos {
 
     private String centro;
     private String codigo;
@@ -123,15 +123,16 @@ public class Cursos implements Comparable<Cursos> {
         return titulo + "\t " + fechFin;
     }
 
-    @Override
-    public int compareTo(Cursos cursos) {
-//        int resultado = this.getFechaIni().compareTo(cursos.getFechaIni());
-//        if (resultado == 1) {
-//            return resultado;
-//        } else {
-//            return this.getTitulo().compareTo(cursos.getTitulo());
-//        }
-return Comparator.comparing(this::getFechaIni());
-    }
+   
+//    public Comparator<Cursos> compareTo(Object arg0) {
+////        int resultado = this.getFechaIni().compareTo(cursos.getFechaIni());
+////        if (resultado == 1) {
+////            return resultado;
+////        } else {
+////            return this.getTitulo().compareTo(cursos.getTitulo());
+////        }
+//        return Comparator.comparing((Cursos p) -> p.getFechaIni())
+//                .thenComparing((Cursos p) -> p.getTitulo());
+//    }
 
 }
